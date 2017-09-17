@@ -5,7 +5,10 @@
 #include "Health_And_Safety.h"
 
 int check_Battery_Life(){
-
+// HI Jacob, this is David. I didn't see any comment so I just randomly chose this one. Hope it'll work!
+    int batteryPercent = getBatteryPercent(); 
+    printf("%d", batteryPercent);
+    return 0;
 }
 
 int check_PGConnection(){
