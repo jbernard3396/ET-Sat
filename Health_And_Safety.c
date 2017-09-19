@@ -4,8 +4,18 @@
 
 #include "Health_And_Safety.h"
 
+/**
+ * Checks status of battery.
+ * Written by Ryan Jones
+ * @return value telling what battery life range is
+ */
 int check_Battery_Life(){
-
+    double bLife = satBatteryStatus();
+    if(bLife < .10) {
+        return 0;
+    } else if (bLife > 0.10) {
+        return 1;
+    }
 }
 
 int check_PGConnection(){
