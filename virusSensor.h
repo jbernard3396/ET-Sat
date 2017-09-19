@@ -5,4 +5,7 @@
 #ifndef ET_SAT_VIRUSSENSOR_H_H
 #define ET_SAT_VIRUSSENSOR_H_H
 
+int getVirusStatusFromVirusSensor(int isGood);
+
+
 #endif //ET_SAT_VIRUSSENSOR_H_H
