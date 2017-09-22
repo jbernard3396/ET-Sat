@@ -6,4 +6,9 @@
 #include "stdio.h"
 #include "string.h"
 
+
+void throw_Error();
+
+void run_Health_And_Safety_Check();
+
 #endif // _HEALTH_SAFETY_CHECK_H_

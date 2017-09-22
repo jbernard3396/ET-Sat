@@ -18,15 +18,15 @@ int check_Battery_Life(){
     }
 }
 
-int check_PGConnection(){
+int check_PGConnection(){ //Ryan
 
 }
 
-int check_Position(){
+int check_Position(){ //David
 
 }
 
-int check_Hard_Ware(){
+int check_Hard_Ware(){ //Jake
 
 }
 
@@ -41,7 +41,7 @@ int check_For_Alien_Virus(){
 }
 
 void throw_Error(){
-    printf("error");
+    printf("error\n");
 }
 
 void run_Health_And_Safety_Check() {
