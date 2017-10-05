@@ -20,19 +20,19 @@
 static char recievedMessage = NO_NEW_MESSAGE;
 
 //I will write the code for each satellite here
-void run_TUS_main(void){
-        //Both satellites will Check For a new IR message
+void run_TUS_main(void) {
+    //Both satellites will Check For a new IR message
 //        recievedMessage = IR_checkForNewMessage();
 
-        //Change modes according to the message received (if any), and execute that mode.
-        SCM_Set_Current_Mode(&TUS,recievedMessage);
-        SCM_Run_Current_Mode(TUS);
-        SCM_TUS_Set_New_Mode(); //Select a new mode to send to PGS
+    //Change modes according to the message received (if any), and execute that mode.
+    //SCM_Set_Current_Mode(&TUS, recievedMessage);
+    //SCM_Init();
+    SCM_Run_Current_Mode(TUS);
+    //SCM_TUS_Set_New_Mode(); //Select a new mode to send to PGS
 //        send_Message_wait_for_ack(TUS.currentMode); //<--Send a message to PGS and wait for ack
 }
 
-int main(void)
-{
+int main(void) {
     //Setup starts here!
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
     // initialize the system
@@ -48,11 +48,13 @@ int main(void)
 //    systmr_Load(&timer1); //Load the timer before starting. This is used as a referenece point.
 
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-    while(1){
+    SCM_Init();
+    while (1) {
 //        if(RUN_TUS){
 //            if(systmr_Elapsed(&timer1, (10000/2), SYSTMR_RELOAD)){ //this is just testing if the message sending works properly
-                run_TUS_main();
+        run_TUS_main();
+
+//        printf("Run" + i++);
 //            }
 //        }
 //        else{

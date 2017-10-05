@@ -61,24 +61,30 @@ Bool tus_power_status_ok(void) {
 
 void flag_status( Bool conditional_val, int error_val ) {
     if ( conditional_val == FALSE ) {
-        run_malfunction_mode( error_val );              //send to Malfunction Mode w/error code
+//        run_malfunction_mode( error_val );              //send to Malfunction Mode w/error code
+        printf("condition value was false");
     }
 }
 
 void mode_test_init(void){
     //set LED pins as output
+    /**
     DDRB |= (1<<PB0)|(1<<PB1)|(1<<PB6)|(1<<PB7);//|(1<<PB2)|(1<<PB3)|(1<<PB4)|(1<<PB5);
     //DDRC |= (1<<PC0)|(1<<PC1)|(1<<PC2)|(1<<PC3)|(1<<PC4)|(1<<PC5)|(1<<PC6);
     DDRD |= (1<<PD0)|(1<<PD1)|(1<<PD4)|(1<<PD5)|(1<<PD6)|(1<<PD7); //|(1<<PD2)|(1<<PD3);
+     */
 }
 
 void led_clear(void){
+    /*****************************
     PORTB &= 0;
     PORTC &= 0;
     PORTD &= 0;
+     */
 }
 
 void run_health_safety_check(void){
+    printf("Running Health and Safety Checks\n\n");
     switch ( HEALTH_SAFETY_STATUS ) {
         case ATTITUDE_STATUS :                          //if true, move to next health check. if false, go to malfunction mode(error_code).
             //led_clear();

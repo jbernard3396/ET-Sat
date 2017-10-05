@@ -19,15 +19,18 @@ void measure_plasma(void) {
     //power_on(/*plasma probe*/);
     //collect and measure plasma
     //power_off(/*plasma probe*/);
+    printf("init measure_plasma() ");
 }
 
 void measure_light(void) {              //are we measuring light intensity or presence?
     //power_on(/*light sensor*/);
     //collect and measure light
     //power_off(/*light sensor*/);
+    printf("init measure_light() ");
 }
 
 void run_smm(void) {
     measure_plasma();
     measure_light();
+    printf("SMM is running\n\n");
 }
