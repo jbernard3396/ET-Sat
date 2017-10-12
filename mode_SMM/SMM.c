@@ -16,7 +16,7 @@
 
 
 void measure_plasma(void) {
-    //power_on(/*plasma probe*/);
+    //power_on(/*plasma probe*/) ;
     //collect and measure plasma
     //power_off(/*plasma probe*/);
     printf("init measure_plasma() ");
