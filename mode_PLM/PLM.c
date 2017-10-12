@@ -17,8 +17,11 @@ void measure_current(void) {
     //power_on(/*emitter*/);
     //bias_tether();
     //power_off();
+    printf("measure_current() ");
+
 }
 
 void run_plm(void) {
-    //measure_current();
+    measure_current();
+    printf("Running PLM\n\n");
 }

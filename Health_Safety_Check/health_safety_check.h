@@ -3,6 +3,7 @@
 
 #include "../typedef/typedef.h"
 #include "../Recovery_Modes/MFM.h"
+#include <stdio.h>
 
 typedef enum {
 

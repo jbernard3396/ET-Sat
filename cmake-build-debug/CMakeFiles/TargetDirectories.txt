@@ -1,0 +1,3 @@
+C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir
+C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -15,14 +15,15 @@
 
 //Functions-------------------------------------------------------------------------------------------------------------------
 void measure_strain(void) {
-
+    printf("init measure_strain() ");
 }
 
 void check_buffer() {
-
+    printf("init check_buffer() ");
 }
 
 void run_tmm() {
     measure_strain();
-
+    check_buffer();
+    printf("TMM is running\n\n");
 }

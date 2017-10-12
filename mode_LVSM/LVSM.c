@@ -21,11 +21,13 @@ Bool power_on( void ) {
     //switch parts on
     //if part not on immediately, try 3x
     int x = 1;
+    printf("init power_on ");
     if (x == 1 ) {
         return TRUE;
     } else {
         return FALSE;
     }
+
 }
 
 void imu_post(void) {
@@ -33,6 +35,7 @@ void imu_post(void) {
         //calibrate imu
         return;
     }*/
+    printf("init imu_post ");
     return;
 
 }
@@ -46,4 +49,7 @@ void run_lvsm (void) {
     //enable_IR_interrupt(void);
     //data sent to simplex
     //NOTE: RUN HEALTH AND SAFETY ONLY AFTER LVSM OP DONE
+    power_on();
+    imu_post();
+    printf("LVSM is running\n\n");
 }

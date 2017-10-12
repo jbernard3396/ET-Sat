@@ -15,5 +15,5 @@
 //#include "../io/io.h"
 #include "../mode_SCM/SCM.h" //SCM contains every other .h mode file...
 //#include "../IR_Protocol/IR_Protocol.h"
-
+#include <stdio.h>
 #endif //ET_SAT_MAIN_H
