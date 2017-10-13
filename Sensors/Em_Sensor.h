@@ -5,6 +5,8 @@
 #ifndef ET_SAT_EM_SENSOR_H
 #define ET_SAT_EM_SENSOR_H
 
-unsigned short getEMField(void);
+//functions
+
+unsigned short getEmField(void);
 
 #endif //ET_SAT_EM_SENSOR_H
