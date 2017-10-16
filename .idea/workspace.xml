@@ -11,12 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1014684b-97b1-43c7-97ca-da34af705655" name="Default" comment="Merge branches 'branchRyan' and 'master' of https://github.com/jbernard3396/ET-Sat into branchRyan&#10;&#10;# Conflicts:&#10;#&#9;Health_And_Safety.c">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/ET-Sat.exe" afterPath="" />
+    <list default="true" id="1014684b-97b1-43c7-97ca-da34af705655" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/Main/main.c.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/Main/main.c.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/objects.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mode_PLM/PLM.c" afterPath="$PROJECT_DIR$/mode_PLM/PLM.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mode_PLM/PLM.h" afterPath="$PROJECT_DIR$/mode_PLM/PLM.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mode_SCM/SCM.c" afterPath="$PROJECT_DIR$/mode_SCM/SCM.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ET-Sat.dir/C.includecache" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,8 +92,8 @@
       <file leaf-file-name="PLM.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mode_PLM/PLM.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="575">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -281,7 +282,7 @@
       <workItem from="1507776086564" duration="633000" />
       <workItem from="1507776971397" duration="1685000" />
       <workItem from="1507811307639" duration="2549000" />
-      <workItem from="1508164505198" duration="4492000" />
+      <workItem from="1508164505198" duration="5861000" />
     </task>
     <task id="LOCAL-00001" summary="Ryan; Added code to check_Battery_Life()">
       <created>1505846653764</created>
@@ -318,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507813593019</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge branches 'branchRyan' and 'master' of https://github.com/jbernard3396/ET-Sat into branchRyan&#10;&#10;# Conflicts:&#10;#&#9;Health_And_Safety.c">
+      <created>1508171710186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508171710188</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34540000" />
+    <option name="totallyTimeSpent" value="35909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -330,13 +338,13 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14926931" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7107791" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7107791" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30965006" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.50417536" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5506937" sideWeight="0.49583334" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56990397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33262032" sideWeight="0.49582464" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33191034" sideWeight="0.49582464" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -523,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mode_PLM/PLM.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="575">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding />
         </state>
       </provider>

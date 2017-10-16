@@ -73,6 +73,10 @@ C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.h
 C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
 stdio.h
 -
+stdbool.h
+-
+stdlib.h
+-
 
 C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.c
 SCM.h
