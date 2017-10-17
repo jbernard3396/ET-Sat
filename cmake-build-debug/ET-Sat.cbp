@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ET-Sat"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ET-Sat">
+				<Option output="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/ET-Sat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 ET-Sat"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ET-Sat/fast">
+				<Option output="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/ET-Sat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 ET-Sat/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/MainTests/mainTest.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/MainTests/mainTest.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Em_Sensor.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Em_Sensor.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Light_Sensor.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Light_Sensor.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Rotation_Sensor.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Rotation_Sensor.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Tether_Communication_Sensor&apos;.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Tether_Communication_Sensor&apos;.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
