@@ -4,6 +4,8 @@
 
 #include "Em_Sensor.h"
 #include <limits.h>
+#include <stdio.h>
+
 unsigned short getEmField(){
     //Reads Electro Magnetic Field input from port Em_Sensor is on
     int emReading = 56; //will be port Name / DDR location

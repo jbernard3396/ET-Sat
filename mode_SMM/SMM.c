@@ -17,15 +17,15 @@
 
 unsigned short measure_light(void) {              //are we measuring light intensity or presence?
     unsigned short lightValue = Get_Ambient_Light();
-    if (lightValue == 0) // Handle Error Here
+    if (lightValue == 0) return 0;// Handle Error Here
     return lightValue;
 
 }
 
 unsigned short measure_em(void) {
-    unsigned short emValue = getEmField();
-    if (emValue == 0) // Handle Error Here
-        return emValue;
+    unsigned short emMeasure = getEmField();
+    if (emMeasure == 0)  return 0;// Handle Error Here
+    return emMeasure;
 
 }
 short measure_RotationX(void) {
@@ -55,12 +55,12 @@ void sendScienceMeasurements(void){
     if (light == 0){  //Testing Ambient Light
         printf("%s","There was an error in getting the ambient light \n");
     } else{
-        printf("Ambient light= %o\n", light);
+        printf("Ambient light= %d\n", light);
     }
     if (emField == 0){  //Testing Ambient Light
         printf("%s","There was an error in getting the ElectroMagnetic Field \n");
     } else{
-        printf("ElectroMagnetic Field = %o\n", emField);
+        printf("ElectroMagnetic Field = %d\n", emField);
     }
     if (rotationX == 0){  // Testing Rotation X
         printf("%s","There was an error in getting rotation X \n");
