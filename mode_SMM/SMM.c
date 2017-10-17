@@ -63,12 +63,12 @@ void sendScienceMeasurements(void){
         printf("ElectroMagnetic Field = %o\n", emField);
     }
     if (rotationX == 0){  // Testing Rotation X
-        printf("%s","There was an error in getting rotation Y \n");
+        printf("%s","There was an error in getting rotation X \n");
     } else{
         printf("Rotation X= %d\n", rotationX);
     }
     if (rotationY == 0){  //Testing Rotation Y
-        printf("There was an error in getting rotation Z \n");
+        printf("There was an error in getting rotation Y \n");
     } else{
         printf("Rotation Y= %d\n", rotationY);
     }
