@@ -1,0 +1,3 @@
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/edit_cache.dir
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/rebuild_cache.dir
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/ET-Sat.dir

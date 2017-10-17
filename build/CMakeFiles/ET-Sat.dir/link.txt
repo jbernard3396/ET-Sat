@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/ET-Sat.dir/Main/main.c.o CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o  -o ET-Sat 
