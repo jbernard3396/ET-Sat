@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT
+CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT/build
+CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -150,6 +150,114 @@ Main/main.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Main/main.c.s
 .PHONY : Main/main.c.s
 
+Sensors/Em_Sensor.o: Sensors/Em_Sensor.c.o
+
+.PHONY : Sensors/Em_Sensor.o
+
+# target to build an object file
+Sensors/Em_Sensor.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o
+.PHONY : Sensors/Em_Sensor.c.o
+
+Sensors/Em_Sensor.i: Sensors/Em_Sensor.c.i
+
+.PHONY : Sensors/Em_Sensor.i
+
+# target to preprocess a source file
+Sensors/Em_Sensor.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i
+.PHONY : Sensors/Em_Sensor.c.i
+
+Sensors/Em_Sensor.s: Sensors/Em_Sensor.c.s
+
+.PHONY : Sensors/Em_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Em_Sensor.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s
+.PHONY : Sensors/Em_Sensor.c.s
+
+Sensors/Light_Sensor.o: Sensors/Light_Sensor.c.o
+
+.PHONY : Sensors/Light_Sensor.o
+
+# target to build an object file
+Sensors/Light_Sensor.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o
+.PHONY : Sensors/Light_Sensor.c.o
+
+Sensors/Light_Sensor.i: Sensors/Light_Sensor.c.i
+
+.PHONY : Sensors/Light_Sensor.i
+
+# target to preprocess a source file
+Sensors/Light_Sensor.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i
+.PHONY : Sensors/Light_Sensor.c.i
+
+Sensors/Light_Sensor.s: Sensors/Light_Sensor.c.s
+
+.PHONY : Sensors/Light_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Light_Sensor.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s
+.PHONY : Sensors/Light_Sensor.c.s
+
+Sensors/Rotation_Sensor.o: Sensors/Rotation_Sensor.c.o
+
+.PHONY : Sensors/Rotation_Sensor.o
+
+# target to build an object file
+Sensors/Rotation_Sensor.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o
+.PHONY : Sensors/Rotation_Sensor.c.o
+
+Sensors/Rotation_Sensor.i: Sensors/Rotation_Sensor.c.i
+
+.PHONY : Sensors/Rotation_Sensor.i
+
+# target to preprocess a source file
+Sensors/Rotation_Sensor.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i
+.PHONY : Sensors/Rotation_Sensor.c.i
+
+Sensors/Rotation_Sensor.s: Sensors/Rotation_Sensor.c.s
+
+.PHONY : Sensors/Rotation_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Rotation_Sensor.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s
+.PHONY : Sensors/Rotation_Sensor.c.s
+
+Sensors/Tether_Communication_Sensor'.o: Sensors/Tether_Communication_Sensor'.c.o
+
+.PHONY : Sensors/Tether_Communication_Sensor'.o
+
+# target to build an object file
+Sensors/Tether_Communication_Sensor'.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.o
+
+Sensors/Tether_Communication_Sensor'.i: Sensors/Tether_Communication_Sensor'.c.i
+
+.PHONY : Sensors/Tether_Communication_Sensor'.i
+
+# target to preprocess a source file
+Sensors/Tether_Communication_Sensor'.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.i
+
+Sensors/Tether_Communication_Sensor'.s: Sensors/Tether_Communication_Sensor'.c.s
+
+.PHONY : Sensors/Tether_Communication_Sensor'.s
+
+# target to generate assembly for a file
+Sensors/Tether_Communication_Sensor'.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.s
+
 mode_SCM/SCM.o: mode_SCM/SCM.c.o
 
 .PHONY : mode_SCM/SCM.o
@@ -177,6 +285,60 @@ mode_SCM/SCM.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s
 .PHONY : mode_SCM/SCM.c.s
 
+mode_SMM/SMM.o: mode_SMM/SMM.c.o
+
+.PHONY : mode_SMM/SMM.o
+
+# target to build an object file
+mode_SMM/SMM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o
+.PHONY : mode_SMM/SMM.c.o
+
+mode_SMM/SMM.i: mode_SMM/SMM.c.i
+
+.PHONY : mode_SMM/SMM.i
+
+# target to preprocess a source file
+mode_SMM/SMM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i
+.PHONY : mode_SMM/SMM.c.i
+
+mode_SMM/SMM.s: mode_SMM/SMM.c.s
+
+.PHONY : mode_SMM/SMM.s
+
+# target to generate assembly for a file
+mode_SMM/SMM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s
+.PHONY : mode_SMM/SMM.c.s
+
+mode_TMM/TMM.o: mode_TMM/TMM.c.o
+
+.PHONY : mode_TMM/TMM.o
+
+# target to build an object file
+mode_TMM/TMM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o
+.PHONY : mode_TMM/TMM.c.o
+
+mode_TMM/TMM.i: mode_TMM/TMM.c.i
+
+.PHONY : mode_TMM/TMM.i
+
+# target to preprocess a source file
+mode_TMM/TMM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i
+.PHONY : mode_TMM/TMM.c.i
+
+mode_TMM/TMM.s: mode_TMM/TMM.c.s
+
+.PHONY : mode_TMM/TMM.s
+
+# target to generate assembly for a file
+mode_TMM/TMM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s
+.PHONY : mode_TMM/TMM.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +351,27 @@ help:
 	@echo "... Main/main.o"
 	@echo "... Main/main.i"
 	@echo "... Main/main.s"
+	@echo "... Sensors/Em_Sensor.o"
+	@echo "... Sensors/Em_Sensor.i"
+	@echo "... Sensors/Em_Sensor.s"
+	@echo "... Sensors/Light_Sensor.o"
+	@echo "... Sensors/Light_Sensor.i"
+	@echo "... Sensors/Light_Sensor.s"
+	@echo "... Sensors/Rotation_Sensor.o"
+	@echo "... Sensors/Rotation_Sensor.i"
+	@echo "... Sensors/Rotation_Sensor.s"
+	@echo "... Sensors/Tether_Communication_Sensor'.o"
+	@echo "... Sensors/Tether_Communication_Sensor'.i"
+	@echo "... Sensors/Tether_Communication_Sensor'.s"
 	@echo "... mode_SCM/SCM.o"
 	@echo "... mode_SCM/SCM.i"
 	@echo "... mode_SCM/SCM.s"
+	@echo "... mode_SMM/SMM.o"
+	@echo "... mode_SMM/SMM.i"
+	@echo "... mode_SMM/SMM.s"
+	@echo "... mode_TMM/TMM.o"
+	@echo "... mode_TMM/TMM.i"
+	@echo "... mode_TMM/TMM.s"
 .PHONY : help
 
 
