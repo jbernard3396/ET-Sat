@@ -6,127 +6,173 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.c
+C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.c
 health_safety_check.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 ../Recovery_Modes/MFM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Recovery_Modes/MFM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Recovery_Modes/MFM.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
 ../systmr/systmr.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/systmr/systmr.h
+C:/Users/jbernard/CLionProjects/ET-Sat/systmr/systmr.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 ../io/io.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/io/io.h
+C:/Users/jbernard/CLionProjects/ET-Sat/io/io.h
 ../timer3/timer3.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/timer3/timer3.h
+C:/Users/jbernard/CLionProjects/ET-Sat/timer3/timer3.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.c
+C:/Users/jbernard/CLionProjects/ET-Sat/Main/main.c
 main.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Main/main.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Main/main.h
 string.h
 -
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 ../mode_SCM/SCM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SCM/SCM.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Recovery_Modes/MFM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Recovery_Modes/MFM.h
 ../IR_Protocol/IR_Protocol.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
 ../Health_Safety_Check/health_safety_check.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/io/io.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Em_Sensor.c
+Em_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Em_Sensor.h
+limits.h
+-
+stdio.h
+-
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Em_Sensor.h
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Light_Sensor.c
+Light_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Light_Sensor.h
+limits.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/limits.h
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Light_Sensor.h
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Rotation_Sensor.c
+Rotation_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Rotation_Sensor.h
+limits.h
+-
+stdio.h
+-
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Rotation_Sensor.h
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Tether_Communication_Sensor'.c
+Tether_Communication_Sensor'.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Tether_Communication_Sensor'.h
+limits.h
+-
+
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Tether_Communication_Sensor'.h
+
+C:/Users/jbernard/CLionProjects/ET-Sat/io/io.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 ../timer0/timer0.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/timer0/timer0.h
+C:/Users/jbernard/CLionProjects/ET-Sat/timer0/timer0.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.c
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_LVSM/LVSM.c
 LVSM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_LVSM/LVSM.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_LVSM/LVSM.h
 ../IR_Protocol/IR_Protocol.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.c
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_PLM/PLM.c
 PLM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_PLM/PLM.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_PLM/PLM.h
 ../IR_Protocol/IR_Protocol.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
 stdio.h
 -
+stdbool.h
+-
+stdlib.h
+-
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.c
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SCM/SCM.c
 SCM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SCM/SCM.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SCM/SCM.h
 ../Health_Safety_Check/health_safety_check.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.h
 ../Recovery_Modes/MFM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Recovery_Modes/MFM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Recovery_Modes/MFM.h
 ../mode_LVSM/LVSM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_LVSM/LVSM.h
 ../mode_SMM/SMM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SMM/SMM.h
 ../mode_TMM/TMM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_TMM/TMM.h
 ../mode_PLM/PLM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_PLM/PLM.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.c
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SMM/SMM.c
 SMM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SMM/SMM.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_SMM/SMM.h
 ../IR_Protocol/IR_Protocol.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
+../Sensors/Light_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Light_Sensor.h
+../Sensors/Em_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Em_Sensor.h
+../Sensors/Rotation_Sensor.h
+C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Rotation_Sensor.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.c
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_TMM/TMM.c
 TMM.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_TMM/TMM.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.h
+C:/Users/jbernard/CLionProjects/ET-Sat/mode_TMM/TMM.h
 ../IR_Protocol/IR_Protocol.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/IR_Protocol/IR_Protocol.h
+C:/Users/jbernard/CLionProjects/ET-Sat/IR_Protocol/IR_Protocol.h
 stdio.h
 -
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/systmr/systmr.h
+C:/Users/jbernard/CLionProjects/ET-Sat/systmr/systmr.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 ../timer3/timer3.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/timer3/timer3.h
+C:/Users/jbernard/CLionProjects/ET-Sat/timer3/timer3.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/timer0/timer0.h
+C:/Users/jbernard/CLionProjects/ET-Sat/timer0/timer0.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/timer3/timer3.h
+C:/Users/jbernard/CLionProjects/ET-Sat/timer3/timer3.h
 ../typedef/typedef.h
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 
-C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/typedef/typedef.h
+C:/Users/jbernard/CLionProjects/ET-Sat/typedef/typedef.h
 

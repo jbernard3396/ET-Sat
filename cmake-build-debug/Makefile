@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat"
+CMAKE_SOURCE_DIR = C:\Users\jbernard\CLionProjects\ET-Sat
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\jbernard\CLionProjects\ET-Sat\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat\cmake-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -69,7 +69,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -79,9 +79,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat\cmake-build-debug\CMakeFiles" "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jbernard\CLionProjects\ET-Sat\cmake-build-debug\CMakeFiles C:\Users\jbernard\CLionProjects\ET-Sat\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\slopp\CLionProjects\Satellite Project\ET-Sat\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jbernard\CLionProjects\ET-Sat\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -175,6 +175,114 @@ Main/main.s: Main/main.c.s
 Main/main.c.s:
 	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Main/main.c.s
 .PHONY : Main/main.c.s
+
+Sensors/Em_Sensor.obj: Sensors/Em_Sensor.c.obj
+
+.PHONY : Sensors/Em_Sensor.obj
+
+# target to build an object file
+Sensors/Em_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.obj
+.PHONY : Sensors/Em_Sensor.c.obj
+
+Sensors/Em_Sensor.i: Sensors/Em_Sensor.c.i
+
+.PHONY : Sensors/Em_Sensor.i
+
+# target to preprocess a source file
+Sensors/Em_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i
+.PHONY : Sensors/Em_Sensor.c.i
+
+Sensors/Em_Sensor.s: Sensors/Em_Sensor.c.s
+
+.PHONY : Sensors/Em_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Em_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s
+.PHONY : Sensors/Em_Sensor.c.s
+
+Sensors/Light_Sensor.obj: Sensors/Light_Sensor.c.obj
+
+.PHONY : Sensors/Light_Sensor.obj
+
+# target to build an object file
+Sensors/Light_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.obj
+.PHONY : Sensors/Light_Sensor.c.obj
+
+Sensors/Light_Sensor.i: Sensors/Light_Sensor.c.i
+
+.PHONY : Sensors/Light_Sensor.i
+
+# target to preprocess a source file
+Sensors/Light_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i
+.PHONY : Sensors/Light_Sensor.c.i
+
+Sensors/Light_Sensor.s: Sensors/Light_Sensor.c.s
+
+.PHONY : Sensors/Light_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Light_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s
+.PHONY : Sensors/Light_Sensor.c.s
+
+Sensors/Rotation_Sensor.obj: Sensors/Rotation_Sensor.c.obj
+
+.PHONY : Sensors/Rotation_Sensor.obj
+
+# target to build an object file
+Sensors/Rotation_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.obj
+.PHONY : Sensors/Rotation_Sensor.c.obj
+
+Sensors/Rotation_Sensor.i: Sensors/Rotation_Sensor.c.i
+
+.PHONY : Sensors/Rotation_Sensor.i
+
+# target to preprocess a source file
+Sensors/Rotation_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i
+.PHONY : Sensors/Rotation_Sensor.c.i
+
+Sensors/Rotation_Sensor.s: Sensors/Rotation_Sensor.c.s
+
+.PHONY : Sensors/Rotation_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Rotation_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s
+.PHONY : Sensors/Rotation_Sensor.c.s
+
+Sensors/Tether_Communication_Sensor'.obj: Sensors/Tether_Communication_Sensor'.c.obj
+
+.PHONY : Sensors/Tether_Communication_Sensor'.obj
+
+# target to build an object file
+Sensors/Tether_Communication_Sensor'.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.obj"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.obj
+
+Sensors/Tether_Communication_Sensor'.i: Sensors/Tether_Communication_Sensor'.c.i
+
+.PHONY : Sensors/Tether_Communication_Sensor'.i
+
+# target to preprocess a source file
+Sensors/Tether_Communication_Sensor'.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.i
+
+Sensors/Tether_Communication_Sensor'.s: Sensors/Tether_Communication_Sensor'.c.s
+
+.PHONY : Sensors/Tether_Communication_Sensor'.s
+
+# target to generate assembly for a file
+Sensors/Tether_Communication_Sensor'.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.s
 
 mode_LVSM/LVSM.obj: mode_LVSM/LVSM.c.obj
 
@@ -326,6 +434,18 @@ help:
 	@echo ... Main/main.obj
 	@echo ... Main/main.i
 	@echo ... Main/main.s
+	@echo ... Sensors/Em_Sensor.obj
+	@echo ... Sensors/Em_Sensor.i
+	@echo ... Sensors/Em_Sensor.s
+	@echo ... Sensors/Light_Sensor.obj
+	@echo ... Sensors/Light_Sensor.i
+	@echo ... Sensors/Light_Sensor.s
+	@echo ... Sensors/Rotation_Sensor.obj
+	@echo ... Sensors/Rotation_Sensor.i
+	@echo ... Sensors/Rotation_Sensor.s
+	@echo ... Sensors/Tether_Communication_Sensor'.obj
+	@echo ... Sensors/Tether_Communication_Sensor'.i
+	@echo ... Sensors/Tether_Communication_Sensor'.s
 	@echo ... mode_LVSM/LVSM.obj
 	@echo ... mode_LVSM/LVSM.i
 	@echo ... mode_LVSM/LVSM.s

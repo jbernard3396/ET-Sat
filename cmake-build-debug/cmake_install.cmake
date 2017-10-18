@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat
+# Install script for directory: C:/Users/jbernard/CLionProjects/ET-Sat
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -16,6 +16,9 @@ CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../IR_Protocol/IR_Protocol.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Main/main.c
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Main/main.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Recovery_Modes/MFM.h
+CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Sensors/Em_Sensor.h
+CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Sensors/Light_Sensor.h
+CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../Sensors/Rotation_Sensor.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../io/io.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../mode_LVSM/LVSM.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../mode_PLM/PLM.h
@@ -26,6 +29,18 @@ CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../systmr/systmr.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../timer0/timer0.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../timer3/timer3.h
 CMakeFiles/ET-Sat.dir/Main/main.c.obj: ../typedef/typedef.h
+
+CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.obj: ../Sensors/Em_Sensor.c
+CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.obj: ../Sensors/Em_Sensor.h
+
+CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.obj: ../Sensors/Light_Sensor.c
+CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.obj: ../Sensors/Light_Sensor.h
+
+CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.obj: ../Sensors/Rotation_Sensor.c
+CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.obj: ../Sensors/Rotation_Sensor.h
+
+CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.obj: ../Sensors/Tether_Communication_Sensor'.c
+CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.obj: ../Sensors/Tether_Communication_Sensor'.h
 
 CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.obj: ../IR_Protocol/IR_Protocol.h
 CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.obj: ../io/io.h
@@ -48,6 +63,9 @@ CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj: ../typedef/typedef.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../Health_Safety_Check/health_safety_check.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../IR_Protocol/IR_Protocol.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../Recovery_Modes/MFM.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../Sensors/Em_Sensor.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../Sensors/Light_Sensor.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../Sensors/Rotation_Sensor.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../io/io.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../mode_LVSM/LVSM.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../mode_PLM/PLM.h
@@ -61,6 +79,9 @@ CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../timer3/timer3.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj: ../typedef/typedef.h
 
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../IR_Protocol/IR_Protocol.h
+CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../Sensors/Em_Sensor.h
+CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../Sensors/Light_Sensor.h
+CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../Sensors/Rotation_Sensor.h
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../io/io.h
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../mode_SMM/SMM.c
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj: ../mode_SMM/SMM.h

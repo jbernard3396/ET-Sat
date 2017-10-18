@@ -4,13 +4,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Main/main.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SMM/SMM.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj"
-  "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_TMM/TMM.c" "C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Health_Safety_Check/health_safety_check.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Main/main.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Main/main.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Em_Sensor.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Light_Sensor.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Rotation_Sensor.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/Sensors/Tether_Communication_Sensor'.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/mode_LVSM/LVSM.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/mode_PLM/PLM.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/mode_SCM/SCM.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/mode_SMM/SMM.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.obj"
+  "C:/Users/jbernard/CLionProjects/ET-Sat/mode_TMM/TMM.c" "C:/Users/jbernard/CLionProjects/ET-Sat/cmake-build-debug/CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
