@@ -13,5 +13,5 @@ project(ET-Sat)
 set(CMAKE_C_STANDARD 99)
 
 set(SOURCE_FILES MainTests/mainTest.c MainTests/mainTest.h mode_SCM/SCM.c mode_SCM/SCM.h mode_SMM/SMM.c mode_SMM/SMM.h mode_TMM/TMM.c mode_TMM/TMM.h Sensors/Light_Sensor.c Sensors/Light_Sensor.h Sensors/Rotation_Sensor.c Sensors/Rotation_Sensor.h
-       Sensors/Em_Sensor.c Sensors/Em_Sensor.h Sensors/Tether_Communication_Sensor'.c Sensors/Tether_Communication_Sensor'.h)
+       Sensors/Em_Sensor.c Sensors/Em_Sensor.h Sensors/Tether_Communication_Sensor'.c Sensors/Tether_Communication_Sensor'.h nsl_comm/nsl_connection.c nsl_comm/nsl_connection.h mode_LVSM/LVSM.c mode_LVSM/LVSM.h mode_PLM/PLM.c mode_PLM/PLM.h)
 add_executable(ET-Sat ${SOURCE_FILES})
