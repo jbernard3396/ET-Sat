@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/Health_Safety_Check/health_safety_check.c
+health_safety_check.h
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/Health_Safety_Check/health_safety_check.h
+
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/Health_Safety_Check/health_safety_check.h
 ../typedef/typedef.h
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/typedef/typedef.h
@@ -46,9 +50,17 @@ string.h
 ../timer0/timer0.h
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/timer0/timer0.h
 
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_LVSM/LVSM.c
+LVSM.h
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_LVSM/LVSM.h
+
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_LVSM/LVSM.h
 ../IR_Protocol/IR_Protocol.h
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/IR_Protocol/IR_Protocol.h
+
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_PLM/PLM.c
+PLM.h
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_PLM/PLM.h
 
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_PLM/PLM.h
 ../IR_Protocol/IR_Protocol.h
@@ -72,9 +84,17 @@ SCM.h
 ../mode_PLM/PLM.h
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_PLM/PLM.h
 
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.c
+SMM.h
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.h
+
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.h
 ../IR_Protocol/IR_Protocol.h
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/IR_Protocol/IR_Protocol.h
+
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.c
+TMM.h
+/home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.h
 
 /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.h
 ../IR_Protocol/IR_Protocol.h

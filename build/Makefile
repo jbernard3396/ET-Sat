@@ -123,6 +123,33 @@ ET-Sat/fast:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/build
 .PHONY : ET-Sat/fast
 
+Health_Safety_Check/health_safety_check.o: Health_Safety_Check/health_safety_check.c.o
+
+.PHONY : Health_Safety_Check/health_safety_check.o
+
+# target to build an object file
+Health_Safety_Check/health_safety_check.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.o
+.PHONY : Health_Safety_Check/health_safety_check.c.o
+
+Health_Safety_Check/health_safety_check.i: Health_Safety_Check/health_safety_check.c.i
+
+.PHONY : Health_Safety_Check/health_safety_check.i
+
+# target to preprocess a source file
+Health_Safety_Check/health_safety_check.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.i
+.PHONY : Health_Safety_Check/health_safety_check.c.i
+
+Health_Safety_Check/health_safety_check.s: Health_Safety_Check/health_safety_check.c.s
+
+.PHONY : Health_Safety_Check/health_safety_check.s
+
+# target to generate assembly for a file
+Health_Safety_Check/health_safety_check.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.s
+.PHONY : Health_Safety_Check/health_safety_check.c.s
+
 Main/main.o: Main/main.c.o
 
 .PHONY : Main/main.o
@@ -149,6 +176,60 @@ Main/main.s: Main/main.c.s
 Main/main.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/Main/main.c.s
 .PHONY : Main/main.c.s
+
+mode_LVSM/LVSM.o: mode_LVSM/LVSM.c.o
+
+.PHONY : mode_LVSM/LVSM.o
+
+# target to build an object file
+mode_LVSM/LVSM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.o
+.PHONY : mode_LVSM/LVSM.c.o
+
+mode_LVSM/LVSM.i: mode_LVSM/LVSM.c.i
+
+.PHONY : mode_LVSM/LVSM.i
+
+# target to preprocess a source file
+mode_LVSM/LVSM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.i
+.PHONY : mode_LVSM/LVSM.c.i
+
+mode_LVSM/LVSM.s: mode_LVSM/LVSM.c.s
+
+.PHONY : mode_LVSM/LVSM.s
+
+# target to generate assembly for a file
+mode_LVSM/LVSM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.s
+.PHONY : mode_LVSM/LVSM.c.s
+
+mode_PLM/PLM.o: mode_PLM/PLM.c.o
+
+.PHONY : mode_PLM/PLM.o
+
+# target to build an object file
+mode_PLM/PLM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o
+.PHONY : mode_PLM/PLM.c.o
+
+mode_PLM/PLM.i: mode_PLM/PLM.c.i
+
+.PHONY : mode_PLM/PLM.i
+
+# target to preprocess a source file
+mode_PLM/PLM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.i
+.PHONY : mode_PLM/PLM.c.i
+
+mode_PLM/PLM.s: mode_PLM/PLM.c.s
+
+.PHONY : mode_PLM/PLM.s
+
+# target to generate assembly for a file
+mode_PLM/PLM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.s
+.PHONY : mode_PLM/PLM.c.s
 
 mode_SCM/SCM.o: mode_SCM/SCM.c.o
 
@@ -177,6 +258,60 @@ mode_SCM/SCM.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s
 .PHONY : mode_SCM/SCM.c.s
 
+mode_SMM/SMM.o: mode_SMM/SMM.c.o
+
+.PHONY : mode_SMM/SMM.o
+
+# target to build an object file
+mode_SMM/SMM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o
+.PHONY : mode_SMM/SMM.c.o
+
+mode_SMM/SMM.i: mode_SMM/SMM.c.i
+
+.PHONY : mode_SMM/SMM.i
+
+# target to preprocess a source file
+mode_SMM/SMM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i
+.PHONY : mode_SMM/SMM.c.i
+
+mode_SMM/SMM.s: mode_SMM/SMM.c.s
+
+.PHONY : mode_SMM/SMM.s
+
+# target to generate assembly for a file
+mode_SMM/SMM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s
+.PHONY : mode_SMM/SMM.c.s
+
+mode_TMM/TMM.o: mode_TMM/TMM.c.o
+
+.PHONY : mode_TMM/TMM.o
+
+# target to build an object file
+mode_TMM/TMM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o
+.PHONY : mode_TMM/TMM.c.o
+
+mode_TMM/TMM.i: mode_TMM/TMM.c.i
+
+.PHONY : mode_TMM/TMM.i
+
+# target to preprocess a source file
+mode_TMM/TMM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i
+.PHONY : mode_TMM/TMM.c.i
+
+mode_TMM/TMM.s: mode_TMM/TMM.c.s
+
+.PHONY : mode_TMM/TMM.s
+
+# target to generate assembly for a file
+mode_TMM/TMM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s
+.PHONY : mode_TMM/TMM.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +321,27 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ET-Sat"
+	@echo "... Health_Safety_Check/health_safety_check.o"
+	@echo "... Health_Safety_Check/health_safety_check.i"
+	@echo "... Health_Safety_Check/health_safety_check.s"
 	@echo "... Main/main.o"
 	@echo "... Main/main.i"
 	@echo "... Main/main.s"
+	@echo "... mode_LVSM/LVSM.o"
+	@echo "... mode_LVSM/LVSM.i"
+	@echo "... mode_LVSM/LVSM.s"
+	@echo "... mode_PLM/PLM.o"
+	@echo "... mode_PLM/PLM.i"
+	@echo "... mode_PLM/PLM.s"
 	@echo "... mode_SCM/SCM.o"
 	@echo "... mode_SCM/SCM.i"
 	@echo "... mode_SCM/SCM.s"
+	@echo "... mode_SMM/SMM.o"
+	@echo "... mode_SMM/SMM.i"
+	@echo "... mode_SMM/SMM.s"
+	@echo "... mode_TMM/TMM.o"
+	@echo "... mode_TMM/TMM.i"
+	@echo "... mode_TMM/TMM.s"
 .PHONY : help
 
 
