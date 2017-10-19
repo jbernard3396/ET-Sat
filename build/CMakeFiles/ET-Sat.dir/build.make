@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT
+CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build
+CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ET-Sat.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/ET-Sat.dir/flags.make
 
 CMakeFiles/ET-Sat.dir/Main/main.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../Main/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ET-Sat.dir/Main/main.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Main/main.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Main/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ET-Sat.dir/Main/main.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Main/main.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/Main/main.c
 
 CMakeFiles/ET-Sat.dir/Main/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/Main/main.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Main/main.c > CMakeFiles/ET-Sat.dir/Main/main.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/Main/main.c > CMakeFiles/ET-Sat.dir/Main/main.c.i
 
 CMakeFiles/ET-Sat.dir/Main/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/Main/main.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Main/main.c -o CMakeFiles/ET-Sat.dir/Main/main.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/Main/main.c -o CMakeFiles/ET-Sat.dir/Main/main.c.s
 
 CMakeFiles/ET-Sat.dir/Main/main.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/ET-Sat.dir/Main/main.c.o.provides.build: CMakeFiles/ET-Sat.dir/Main/m
 
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../mode_SCM/SCM.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SCM/SCM.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SCM/SCM.c
 
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SCM/SCM.c > CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SCM/SCM.c > CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.i
 
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SCM/SCM.c -o CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SCM/SCM.c -o CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.s
 
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o.provides.build: CMakeFiles/ET-Sat.dir/mod
 
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o: ../mode_SMM/SMM.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SMM/SMM.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.c
 
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SMM/SMM.c > CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.c > CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.i
 
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_SMM/SMM.c -o CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_SMM/SMM.c -o CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.s
 
 CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o.provides.build: CMakeFiles/ET-Sat.dir/mod
 
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: ../mode_TMM/TMM.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_TMM/TMM.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.c
 
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_TMM/TMM.c > CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.c > CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.i
 
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/mode_TMM/TMM.c -o CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/mode_TMM/TMM.c -o CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s
 
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o.provides.build: CMakeFiles/ET-Sat.dir/mod
 
 CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o: ../Sensors/Light_Sensor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Light_Sensor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Light_Sensor.c
 
 CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Light_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Light_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i
 
 CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Light_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Light_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s
 
 CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o.provides.build: CMakeFiles/ET-Sat
 
 CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o: ../Sensors/Rotation_Sensor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Rotation_Sensor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Rotation_Sensor.c
 
 CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Rotation_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Rotation_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i
 
 CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Rotation_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Rotation_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s
 
 CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o.provides.build: CMakeFiles/ET-
 
 CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o: ../Sensors/Em_Sensor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Em_Sensor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o   -c /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Em_Sensor.c
 
 CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Em_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Em_Sensor.c > CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i
 
 CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Em_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Em_Sensor.c -o CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s
 
 CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o.provides.build: CMakeFiles/ET-Sat.di
 
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o: CMakeFiles/ET-Sat.dir/flags.make
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o: ../Sensors/Tether_Communication_Sensor'.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"   -c "/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"   -c "/home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c"
 
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c" > "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c" > "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
 
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
-	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c" -o "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
+	/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/CS/users/hdeng/.linux/Documents/ThinSAT/Sensors/Tether_Communication_Sensor'.c" -o "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
 
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o.requires:
 
@@ -273,7 +273,7 @@ ET-Sat: CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o
 ET-Sat: CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o
 ET-Sat: CMakeFiles/ET-Sat.dir/build.make
 ET-Sat: CMakeFiles/ET-Sat.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable ET-Sat"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable ET-Sat"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ET-Sat.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -297,6 +297,6 @@ CMakeFiles/ET-Sat.dir/clean:
 .PHONY : CMakeFiles/ET-Sat.dir/clean
 
 CMakeFiles/ET-Sat.dir/depend:
-	cd /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles/ET-Sat.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/CS/users/hdeng/.linux/Documents/ThinSAT/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/CS/users/hdeng/.linux/Documents/ThinSAT /home/CS/users/hdeng/.linux/Documents/ThinSAT /home/CS/users/hdeng/.linux/Documents/ThinSAT/build /home/CS/users/hdeng/.linux/Documents/ThinSAT/build /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/ET-Sat.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ET-Sat.dir/depend
 
