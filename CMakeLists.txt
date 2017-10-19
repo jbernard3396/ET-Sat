@@ -7,7 +7,7 @@
 #add_executable(ET-Sat ${SOURCE_FILES})
 #Copy entire cmakelists and echange main.c/h with test.c/h, ake amviant light sensor in sensorfolders.. etc .c and .h,
 #test all inputs to return files
-cmake_minimum_required(VERSION 3.8)
+cmake_minimum_required(VERSION 3.5)
 project(ET-Sat)
 
 set(CMAKE_C_STANDARD 99)
