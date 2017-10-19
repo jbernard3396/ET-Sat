@@ -100,7 +100,7 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
     switch (thisSatellite.currentMode) {
         case LVSM : //Launch Vehicle Separation Mode #0
             printf("RUN LVSM\n");
-            run_lvsm();
+//            run_lvsm();
             break;
 
         case SMM : //Science Measurement Mode #1
@@ -120,7 +120,7 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case HEALTH_SAFETY_CHECK : // Health and safety #4
             printf("RUN HEALTH_AND_SAFETY\n");
-            run_health_safety_check();
+//            run_health_safety_check();
             break;
 
         case SEND_TO_SIMPLEX : // #5

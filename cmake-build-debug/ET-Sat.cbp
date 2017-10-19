@@ -82,28 +82,34 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.c">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/MainTests/mainTest.c">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Health_Safety_Check/health_safety_check.h">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/MainTests/mainTest.h">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.c">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Em_Sensor.c">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Main/main.h">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Em_Sensor.h">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.c">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Light_Sensor.c">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_LVSM/LVSM.h">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Light_Sensor.h">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.c">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Rotation_Sensor.c">
 			<Option target="ET-Sat"/>
 		</Unit>
-		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_PLM/PLM.h">
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Rotation_Sensor.h">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Tether_Communication_Sensor&apos;.c">
+			<Option target="ET-Sat"/>
+		</Unit>
+		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/Sensors/Tether_Communication_Sensor&apos;.h">
 			<Option target="ET-Sat"/>
 		</Unit>
 		<Unit filename="C:/Users/slopp/CLionProjects/Satellite Project/ET-Sat/mode_SCM/SCM.c">

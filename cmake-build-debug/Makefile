@@ -122,113 +122,140 @@ ET-Sat/fast:
 	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/build
 .PHONY : ET-Sat/fast
 
-Health_Safety_Check/health_safety_check.obj: Health_Safety_Check/health_safety_check.c.obj
+MainTests/mainTest.obj: MainTests/mainTest.c.obj
 
-.PHONY : Health_Safety_Check/health_safety_check.obj
-
-# target to build an object file
-Health_Safety_Check/health_safety_check.c.obj:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.obj
-.PHONY : Health_Safety_Check/health_safety_check.c.obj
-
-Health_Safety_Check/health_safety_check.i: Health_Safety_Check/health_safety_check.c.i
-
-.PHONY : Health_Safety_Check/health_safety_check.i
-
-# target to preprocess a source file
-Health_Safety_Check/health_safety_check.c.i:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.i
-.PHONY : Health_Safety_Check/health_safety_check.c.i
-
-Health_Safety_Check/health_safety_check.s: Health_Safety_Check/health_safety_check.c.s
-
-.PHONY : Health_Safety_Check/health_safety_check.s
-
-# target to generate assembly for a file
-Health_Safety_Check/health_safety_check.c.s:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Health_Safety_Check/health_safety_check.c.s
-.PHONY : Health_Safety_Check/health_safety_check.c.s
-
-Main/main.obj: Main/main.c.obj
-
-.PHONY : Main/main.obj
+.PHONY : MainTests/mainTest.obj
 
 # target to build an object file
-Main/main.c.obj:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Main/main.c.obj
-.PHONY : Main/main.c.obj
+MainTests/mainTest.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/MainTests/mainTest.c.obj
+.PHONY : MainTests/mainTest.c.obj
 
-Main/main.i: Main/main.c.i
+MainTests/mainTest.i: MainTests/mainTest.c.i
 
-.PHONY : Main/main.i
+.PHONY : MainTests/mainTest.i
 
 # target to preprocess a source file
-Main/main.c.i:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Main/main.c.i
-.PHONY : Main/main.c.i
+MainTests/mainTest.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/MainTests/mainTest.c.i
+.PHONY : MainTests/mainTest.c.i
 
-Main/main.s: Main/main.c.s
+MainTests/mainTest.s: MainTests/mainTest.c.s
 
-.PHONY : Main/main.s
+.PHONY : MainTests/mainTest.s
 
 # target to generate assembly for a file
-Main/main.c.s:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Main/main.c.s
-.PHONY : Main/main.c.s
+MainTests/mainTest.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/MainTests/mainTest.c.s
+.PHONY : MainTests/mainTest.c.s
 
-mode_LVSM/LVSM.obj: mode_LVSM/LVSM.c.obj
+Sensors/Em_Sensor.obj: Sensors/Em_Sensor.c.obj
 
-.PHONY : mode_LVSM/LVSM.obj
+.PHONY : Sensors/Em_Sensor.obj
 
 # target to build an object file
-mode_LVSM/LVSM.c.obj:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.obj
-.PHONY : mode_LVSM/LVSM.c.obj
+Sensors/Em_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.obj
+.PHONY : Sensors/Em_Sensor.c.obj
 
-mode_LVSM/LVSM.i: mode_LVSM/LVSM.c.i
+Sensors/Em_Sensor.i: Sensors/Em_Sensor.c.i
 
-.PHONY : mode_LVSM/LVSM.i
+.PHONY : Sensors/Em_Sensor.i
 
 # target to preprocess a source file
-mode_LVSM/LVSM.c.i:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.i
-.PHONY : mode_LVSM/LVSM.c.i
+Sensors/Em_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.i
+.PHONY : Sensors/Em_Sensor.c.i
 
-mode_LVSM/LVSM.s: mode_LVSM/LVSM.c.s
+Sensors/Em_Sensor.s: Sensors/Em_Sensor.c.s
 
-.PHONY : mode_LVSM/LVSM.s
+.PHONY : Sensors/Em_Sensor.s
 
 # target to generate assembly for a file
-mode_LVSM/LVSM.c.s:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_LVSM/LVSM.c.s
-.PHONY : mode_LVSM/LVSM.c.s
+Sensors/Em_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.s
+.PHONY : Sensors/Em_Sensor.c.s
 
-mode_PLM/PLM.obj: mode_PLM/PLM.c.obj
+Sensors/Light_Sensor.obj: Sensors/Light_Sensor.c.obj
 
-.PHONY : mode_PLM/PLM.obj
+.PHONY : Sensors/Light_Sensor.obj
 
 # target to build an object file
-mode_PLM/PLM.c.obj:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.obj
-.PHONY : mode_PLM/PLM.c.obj
+Sensors/Light_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.obj
+.PHONY : Sensors/Light_Sensor.c.obj
 
-mode_PLM/PLM.i: mode_PLM/PLM.c.i
+Sensors/Light_Sensor.i: Sensors/Light_Sensor.c.i
 
-.PHONY : mode_PLM/PLM.i
+.PHONY : Sensors/Light_Sensor.i
 
 # target to preprocess a source file
-mode_PLM/PLM.c.i:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.i
-.PHONY : mode_PLM/PLM.c.i
+Sensors/Light_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.i
+.PHONY : Sensors/Light_Sensor.c.i
 
-mode_PLM/PLM.s: mode_PLM/PLM.c.s
+Sensors/Light_Sensor.s: Sensors/Light_Sensor.c.s
 
-.PHONY : mode_PLM/PLM.s
+.PHONY : Sensors/Light_Sensor.s
 
 # target to generate assembly for a file
-mode_PLM/PLM.c.s:
-	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.s
-.PHONY : mode_PLM/PLM.c.s
+Sensors/Light_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.s
+.PHONY : Sensors/Light_Sensor.c.s
+
+Sensors/Rotation_Sensor.obj: Sensors/Rotation_Sensor.c.obj
+
+.PHONY : Sensors/Rotation_Sensor.obj
+
+# target to build an object file
+Sensors/Rotation_Sensor.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.obj
+.PHONY : Sensors/Rotation_Sensor.c.obj
+
+Sensors/Rotation_Sensor.i: Sensors/Rotation_Sensor.c.i
+
+.PHONY : Sensors/Rotation_Sensor.i
+
+# target to preprocess a source file
+Sensors/Rotation_Sensor.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.i
+.PHONY : Sensors/Rotation_Sensor.c.i
+
+Sensors/Rotation_Sensor.s: Sensors/Rotation_Sensor.c.s
+
+.PHONY : Sensors/Rotation_Sensor.s
+
+# target to generate assembly for a file
+Sensors/Rotation_Sensor.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.s
+.PHONY : Sensors/Rotation_Sensor.c.s
+
+Sensors/Tether_Communication_Sensor'.obj: Sensors/Tether_Communication_Sensor'.c.obj
+
+.PHONY : Sensors/Tether_Communication_Sensor'.obj
+
+# target to build an object file
+Sensors/Tether_Communication_Sensor'.c.obj:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.obj"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.obj
+
+Sensors/Tether_Communication_Sensor'.i: Sensors/Tether_Communication_Sensor'.c.i
+
+.PHONY : Sensors/Tether_Communication_Sensor'.i
+
+# target to preprocess a source file
+Sensors/Tether_Communication_Sensor'.c.i:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.i"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.i
+
+Sensors/Tether_Communication_Sensor'.s: Sensors/Tether_Communication_Sensor'.c.s
+
+.PHONY : Sensors/Tether_Communication_Sensor'.s
+
+# target to generate assembly for a file
+Sensors/Tether_Communication_Sensor'.c.s:
+	$(MAKE) -f CMakeFiles\ET-Sat.dir\build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
+.PHONY : Sensors/Tether_Communication_Sensor'.c.s
 
 mode_SCM/SCM.obj: mode_SCM/SCM.c.obj
 
@@ -320,18 +347,21 @@ help:
 	@echo ... rebuild_cache
 	@echo ... ET-Sat
 	@echo ... edit_cache
-	@echo ... Health_Safety_Check/health_safety_check.obj
-	@echo ... Health_Safety_Check/health_safety_check.i
-	@echo ... Health_Safety_Check/health_safety_check.s
-	@echo ... Main/main.obj
-	@echo ... Main/main.i
-	@echo ... Main/main.s
-	@echo ... mode_LVSM/LVSM.obj
-	@echo ... mode_LVSM/LVSM.i
-	@echo ... mode_LVSM/LVSM.s
-	@echo ... mode_PLM/PLM.obj
-	@echo ... mode_PLM/PLM.i
-	@echo ... mode_PLM/PLM.s
+	@echo ... MainTests/mainTest.obj
+	@echo ... MainTests/mainTest.i
+	@echo ... MainTests/mainTest.s
+	@echo ... Sensors/Em_Sensor.obj
+	@echo ... Sensors/Em_Sensor.i
+	@echo ... Sensors/Em_Sensor.s
+	@echo ... Sensors/Light_Sensor.obj
+	@echo ... Sensors/Light_Sensor.i
+	@echo ... Sensors/Light_Sensor.s
+	@echo ... Sensors/Rotation_Sensor.obj
+	@echo ... Sensors/Rotation_Sensor.i
+	@echo ... Sensors/Rotation_Sensor.s
+	@echo ... Sensors/Tether_Communication_Sensor'.obj
+	@echo ... Sensors/Tether_Communication_Sensor'.i
+	@echo ... Sensors/Tether_Communication_Sensor'.s
 	@echo ... mode_SCM/SCM.obj
 	@echo ... mode_SCM/SCM.i
 	@echo ... mode_SCM/SCM.s
