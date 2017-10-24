@@ -32,6 +32,15 @@ CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o: ../Sensors/Rotation_Sensor.h
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o: ../Sensors/Tether_Communication_Sensor'.c
 CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o: ../Sensors/Tether_Communication_Sensor'.h
 
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../IR_Protocol/IR_Protocol.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../io/io.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../mode_PLM/PLM.c
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../mode_PLM/PLM.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../systmr/systmr.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../timer0/timer0.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../timer3/timer3.h
+CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o: ../typedef/typedef.h
+
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../Health_Safety_Check/health_safety_check.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../IR_Protocol/IR_Protocol.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../Recovery_Modes/MFM.h

@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT
+CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build
+CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Desktop/Documents/ThinSAT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -258,6 +258,33 @@ Sensors/Tether_Communication_Sensor'.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.s"
 .PHONY : Sensors/Tether_Communication_Sensor'.c.s
 
+mode_PLM/PLM.o: mode_PLM/PLM.c.o
+
+.PHONY : mode_PLM/PLM.o
+
+# target to build an object file
+mode_PLM/PLM.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o
+.PHONY : mode_PLM/PLM.c.o
+
+mode_PLM/PLM.i: mode_PLM/PLM.c.i
+
+.PHONY : mode_PLM/PLM.i
+
+# target to preprocess a source file
+mode_PLM/PLM.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.i
+.PHONY : mode_PLM/PLM.c.i
+
+mode_PLM/PLM.s: mode_PLM/PLM.c.s
+
+.PHONY : mode_PLM/PLM.s
+
+# target to generate assembly for a file
+mode_PLM/PLM.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.s
+.PHONY : mode_PLM/PLM.c.s
+
 mode_SCM/SCM.o: mode_SCM/SCM.c.o
 
 .PHONY : mode_SCM/SCM.o
@@ -363,6 +390,9 @@ help:
 	@echo "... Sensors/Tether_Communication_Sensor'.o"
 	@echo "... Sensors/Tether_Communication_Sensor'.i"
 	@echo "... Sensors/Tether_Communication_Sensor'.s"
+	@echo "... mode_PLM/PLM.o"
+	@echo "... mode_PLM/PLM.i"
+	@echo "... mode_PLM/PLM.s"
 	@echo "... mode_SCM/SCM.o"
 	@echo "... mode_SCM/SCM.i"
 	@echo "... mode_SCM/SCM.s"

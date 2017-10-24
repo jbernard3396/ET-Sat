@@ -8,6 +8,7 @@
 #include <stdio.h>
 
 //functions
+void run_smm();
 void sendScienceMeasurements(void);
 
 #endif //_SMM_H
