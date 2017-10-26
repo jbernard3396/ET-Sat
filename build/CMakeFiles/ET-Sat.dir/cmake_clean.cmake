@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ET-Sat.dir/Main/main.c.o"
   "CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o"
+  "CMakeFiles/ET-Sat.dir/mode_PLM/PLM.c.o"
   "CMakeFiles/ET-Sat.dir/mode_SMM/SMM.c.o"
   "CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o"
   "CMakeFiles/ET-Sat.dir/Sensors/Light_Sensor.c.o"

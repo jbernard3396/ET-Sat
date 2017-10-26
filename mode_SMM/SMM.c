@@ -78,3 +78,7 @@ void sendScienceMeasurements(void){
         printf("Rotation Z= %d\n", rotationZ);
     }
 }
+void run_smm()
+{
+	sendScienceMeasurements();
+}

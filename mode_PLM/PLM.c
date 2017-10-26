@@ -44,7 +44,7 @@ int get_phantom_loop_current(void) {
 }
 
 int initialize_phantom_loop_current(void) {
-    current = rand()% 101;
+    current = rand()% 100;
     return current;
 }
 

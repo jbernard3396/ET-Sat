@@ -105,7 +105,7 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case SMM : //Science Measurement Mode #1
             printf("RUN SMM\n");
-//            run_smm();
+            run_smm();
             break;
 
         case TMM : //Tether Measurement Mode #2
@@ -115,7 +115,7 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case PLM : // #3
             printf("RUN PLM\n\n");
-            //run_plm();
+            run_plm();
             break;
 
         case HEALTH_SAFETY_CHECK : // Health and safety #4
