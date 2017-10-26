@@ -20,7 +20,7 @@ short getRotationY(){
     return (short)rotationY;
 }
 short getRotationZ() {
-    int  rotationZ = SHRT_MAX + 1;
+    int  rotationZ = SHRT_MAX;
     if (rotationZ > SHRT_MAX || rotationZ < SHRT_MIN) return 0;
     if (rotationZ == 0) rotationZ = 1; //Same as light Sensor, 0 is mapped to 1.
     return (short)rotationZ;
