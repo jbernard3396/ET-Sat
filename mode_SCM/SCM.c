@@ -20,6 +20,9 @@ static MODE last_recorded_mode = SEND_TO_SIMPLEX; //I only chose this mode becau
 static Bool enterHealthSafetyCheck = TRUE;
 static Bool runRoutineOp = TRUE;
 static MODE previousNonRoutineOpMode = LVSM;
+const short stringLengthSMM;
+const short stringLengthTMM;
+const short stringLengthPLM;
 
 void SCM_Init(void) {
     //LVSM will be the first mode that each satellite enters, and therefore they should beinitialized this way.
@@ -105,7 +108,8 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case SMM : //Science Measurement Mode #1
             printf("RUN SMM\n");
-            run_smm();
+			printf("stringLengthSMM: %d", stringLengthSMM);
+            // run_smm();
             break;
 
         case TMM : //Tether Measurement Mode #2

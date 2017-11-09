@@ -11,6 +11,8 @@
 
 //Static Global Variables-----------------------------------------------------------------------------------------------------
 
+const short stringLengthSMM = 40;
+
 
 //Functions-------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +47,7 @@ short measure_RotationZ(void) {
 }
 
 
-void sendScienceMeasurements(void){
+char * sendScienceMeasurements(char * returnString){
     unsigned short light = measure_light();
     unsigned short emField =measure_em();
     short rotationX = measure_RotationX();
@@ -77,8 +79,18 @@ void sendScienceMeasurements(void){
     } else{
         printf("Rotation Z= %d\n", rotationZ);
     }
+
+	// Copy values obtained into the return string
+	snprintf(returnString, stringLengthSMM, "1:%5hu,2:%5hu,3:%5hd,4:%5hd,5:%5hd",
+			light, emField, rotationX, rotationY, rotationZ);
+	return returnString;
+
+
+
+	
+
 }
-void run_smm()
+char * run_smm(char * returnString)
 {
-	sendScienceMeasurements();
+	return sendScienceMeasurements(returnString);
 }

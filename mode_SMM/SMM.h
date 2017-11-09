@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 //functions
-void run_smm();
-void sendScienceMeasurements(void);
+char * run_smm(char * returnString);
+char * sendScienceMeasurements(char * returnString);
 
 #endif //_SMM_H
