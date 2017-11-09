@@ -14,15 +14,14 @@
  */
 
 #include "SCM.h"
+#include "dataString.h"
 
 //Variables
 static MODE last_recorded_mode = SEND_TO_SIMPLEX; //I only chose this mode because we will never start in this mode, and therefore it will not conflict when the satellite is first turned on.
 static Bool enterHealthSafetyCheck = TRUE;
 static Bool runRoutineOp = TRUE;
 static MODE previousNonRoutineOpMode = LVSM;
-const short stringLengthSMM;
-const short stringLengthTMM;
-const short stringLengthPLM;
+char dataString[STRINGLENGTHTOTAL];
 
 void SCM_Init(void) {
     //LVSM will be the first mode that each satellite enters, and therefore they should beinitialized this way.
@@ -108,8 +107,9 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case SMM : //Science Measurement Mode #1
             printf("RUN SMM\n");
-			printf("stringLengthSMM: %d", stringLengthSMM);
-            // run_smm();
+			char stringSMM[STRINGLENGTHSMM];
+            strcpy(dataString, run_smm(stringSMM));
+			printf("dataString=>%s\n", dataString);
             break;
 
         case TMM : //Tether Measurement Mode #2

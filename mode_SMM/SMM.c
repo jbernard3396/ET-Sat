@@ -7,11 +7,11 @@
  *
  */
 
- #include "SMM.h"
+#include "SMM.h"
+#include "../mode_SCM/dataString.h"
 
 //Static Global Variables-----------------------------------------------------------------------------------------------------
 
-const short stringLengthSMM = 40;
 
 
 //Functions-------------------------------------------------------------------------------------------------------------------
@@ -81,7 +81,7 @@ char * sendScienceMeasurements(char * returnString){
     }
 
 	// Copy values obtained into the return string
-	snprintf(returnString, stringLengthSMM, "1:%5hu,2:%5hu,3:%5hd,4:%5hd,5:%5hd",
+	snprintf(returnString, STRINGLENGTHSMM, "1:%5hu,2:%5hu,3:%5hd,4:%5hd,5:%5hd",
 			light, emField, rotationX, rotationY, rotationZ);
 	return returnString;
 

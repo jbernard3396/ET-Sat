@@ -8,10 +8,12 @@
  */
 
 #include "TMM.h"
+#include "../mode_SCM/dataString.h"
 
 
 //Static Global Variables-----------------------------------------------------------------------------------------------------
 const int lengthToExtendTether = 5;
+#define stringLengthTMM 5
 
 
 //Functions-------------------------------------------------------------------------------------------------------------------

@@ -8,6 +8,7 @@
  */
 
 #include "PLM.h"
+#include "../mode_SCM/dataString.h"
 
 //Static Global Variables-----------------------------------------------------------------------------------------------------
 static int current;
