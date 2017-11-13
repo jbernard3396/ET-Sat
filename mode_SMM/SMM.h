@@ -5,6 +5,7 @@
 #include "../Sensors/Light_Sensor.h"
 #include "../Sensors/Em_Sensor.h"
 #include "../Sensors/Rotation_Sensor.h"
+#include "../mode_SCM/data_string.h"
 #include <stdio.h>
 
 //functions

@@ -8,6 +8,7 @@
 #include "../mode_SMM/SMM.h"
 #include "../mode_TMM/TMM.h"
 #include "../mode_PLM/PLM.h"
+#include "data_string.h"
 #include <stdio.h>
 #include <string.h>
 

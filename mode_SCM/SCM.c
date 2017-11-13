@@ -14,7 +14,6 @@
  */
 
 #include "SCM.h"
-#include "dataString.h"
 
 //Variables
 static MODE last_recorded_mode = SEND_TO_SIMPLEX; //I only chose this mode because we will never start in this mode, and therefore it will not conflict when the satellite is first turned on.
@@ -114,12 +113,18 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 
         case TMM : //Tether Measurement Mode #2
             printf("RUN TMM\n");
-            run_tmm();
+			char stringTMM[STRINGLENGTHTMM];
+			strcat(dataString, ",");
+			strcat(dataString, run_tmm(stringTMM));
+			printf("dataString=>%s\n", dataString);
             break;
 
-        case PLM : // #3
+        case PLM : //Phantom Loop Mode #3
             printf("RUN PLM\n\n");
-            run_plm();
+			char stringPLM[STRINGLENGTHPLM];
+			strcat(dataString, ",");
+			strcat(dataString, run_plm(stringPLM));
+			printf("dataString=>%s\n", dataString);
             break;
 
         case HEALTH_SAFETY_CHECK : // Health and safety #4

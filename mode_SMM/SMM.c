@@ -8,7 +8,6 @@
  */
 
 #include "SMM.h"
-#include "../mode_SCM/dataString.h"
 
 //Static Global Variables-----------------------------------------------------------------------------------------------------
 
