@@ -1,0 +1,1429 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              obj\Debug\mode_PLM\PLM.o (__divmodhi4)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o (exit)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              obj\Debug\Recovery_Modes\MFM.o (__tablejump2__)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              obj\Debug\Health_Safety_Check\health_safety_check.o (__do_copy_data)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              obj\Debug\Health_Safety_Check\health_safety_check.o (__do_clear_bss)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                              obj\Debug\mode_PLM\PLM.o (rand)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                              obj\Debug\Health_Safety_Check\health_safety_check.o (printf)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                              obj\Debug\Health_Safety_Check\health_safety_check.o (puts)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (vfprintf)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__iob)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__divmodsi4)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__muluhisi3)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__mulohisi3)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__prologue_saves__)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__epilogue_restores__)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+PGS                 0x8               obj\Debug\Main\main.o
+TUS                 0x8               obj\Debug\Main\main.o
+__iob               0x6               d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+LOAD obj\Debug\fuse.o
+LOAD obj\Debug\Health_Safety_Check\health_safety_check.o
+LOAD obj\Debug\io\io.o
+LOAD obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+LOAD obj\Debug\Main\main.o
+LOAD obj\Debug\mode_LVSM\LVSM.o
+LOAD obj\Debug\mode_PLM\PLM.o
+LOAD obj\Debug\mode_SCM\SCM.o
+LOAD obj\Debug\mode_SMM\SMM.o
+LOAD obj\Debug\mode_TMM\TMM.o
+LOAD obj\Debug\Recovery_Modes\MFM.o
+LOAD obj\Debug\Sensors\Em_Sensor.o
+LOAD obj\Debug\Sensors\Light_Sensor.o
+LOAD obj\Debug\Sensors\Rotation_Sensor.o
+LOAD obj\Debug\Sensors\Tether_Communication_Sensor'.o
+LOAD obj\Debug\Sensors\Time_Watch.o
+LOAD obj\Debug\systmr\systmr.o
+LOAD obj\Debug\timer0\timer0.o
+LOAD obj\Debug\timer1\timer1.o
+LOAD obj\Debug\timer3\timer3.o
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega32u4.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2656
+ *(.vectors)
+ .vectors       0x00000000       0xac d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x000000ac        0xe obj\Debug\Recovery_Modes\MFM.o
+                0x000000ba                . = ALIGN (0x2)
+                0x000000ba                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ba        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ba                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000ba                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000ba                __ctors_start = .
+ *(.ctors)
+                0x000000ba                __ctors_end = .
+                0x000000ba                __dtors_start = .
+ *(.dtors)
+                0x000000ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x000000ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000ba        0xc d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000c6       0x16 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000000c6                __do_copy_data
+ .init4         0x000000dc       0x10 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000ec        0x8 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x000000f4        0x4 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+                0x000000f4                __vector_38
+                0x000000f4                __vector_22
+                0x000000f4                __vector_28
+                0x000000f4                __vector_1
+                0x000000f4                __vector_34
+                0x000000f4                __vector_24
+                0x000000f4                __vector_12
+                0x000000f4                __bad_interrupt
+                0x000000f4                __vector_6
+                0x000000f4                __vector_31
+                0x000000f4                __vector_35
+                0x000000f4                __vector_39
+                0x000000f4                __vector_3
+                0x000000f4                __vector_23
+                0x000000f4                __vector_30
+                0x000000f4                __vector_25
+                0x000000f4                __vector_11
+                0x000000f4                __vector_13
+                0x000000f4                __vector_19
+                0x000000f4                __vector_7
+                0x000000f4                __vector_41
+                0x000000f4                __vector_27
+                0x000000f4                __vector_5
+                0x000000f4                __vector_33
+                0x000000f4                __vector_37
+                0x000000f4                __vector_4
+                0x000000f4                __vector_9
+                0x000000f4                __vector_21
+                0x000000f4                __vector_15
+                0x000000f4                __vector_36
+                0x000000f4                __vector_29
+                0x000000f4                __vector_40
+                0x000000f4                __vector_8
+                0x000000f4                __vector_26
+                0x000000f4                __vector_14
+                0x000000f4                __vector_10
+                0x000000f4                __vector_16
+                0x000000f4                __vector_18
+                0x000000f4                __vector_20
+                0x000000f4                __vector_42
+ .text          0x000000f8        0x0 obj\Debug\fuse.o
+ .text          0x000000f8      0x180 obj\Debug\Health_Safety_Check\health_safety_check.o
+                0x000000f8                attitude_status_ok
+                0x0000017e                tether_status_ok
+                0x0000018e                tus_power_status_ok
+                0x000001cc                flag_status
+                0x00000206                mode_test_init
+                0x00000214                led_clear
+                0x00000222                run_health_safety_check
+ .text          0x00000278        0x0 obj\Debug\io\io.o
+ .text          0x00000278      0x7b6 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                0x00000278                getAckWaitTime
+                0x000002f4                IR_Communication_System_Init
+                0x000003d6                disable_IR_Interrupt
+                0x000003fa                enable_IR_Interrupt
+                0x00000434                isMessageExecuted
+                0x00000446                setMessageAsExecuted
+                0x0000045a                setTotalBitsReceived
+                0x00000474                getTotalNumOfBitsReceived
+                0x00000486                get_bit_value_length
+                0x000004aa                isWithinErrorMargin
+                0x000004f8                get_Bit_Value_From_Length
+                0x00000536                send_Message
+                0x00000672                send_Message_wait_for_ack
+                0x00000700                assembleMessage
+                0x000007a4                last_received_message
+                0x000007ba                reset_IR_Interrupt
+                0x000007e2                is_ISR_timed_out
+                0x0000080c                IR_checkForNewMessage
+                0x0000085e                send_Acknowledgement
+                0x00000874                setData
+                0x000008a0                __vector_2
+ .text          0x00000a2e       0x76 obj\Debug\Main\main.o
+                0x00000a2e                main
+ .text          0x00000aa4       0x92 obj\Debug\mode_LVSM\LVSM.o
+                0x00000aa4                obc_post
+                0x00000ab2                power_on
+                0x00000af2                imu_post
+                0x00000b18                run_lvsm
+ .text          0x00000b36      0x14e obj\Debug\mode_PLM\PLM.o
+                0x00000b36                power_loop_on
+                0x00000b86                power_loop_off
+                0x00000baa                handle_phantom_loop_error
+                0x00000bc8                get_phantom_loop_current
+                0x00000bde                initialize_phantom_loop_current
+                0x00000c10                kill_current
+                0x00000c26                measure_current
+                0x00000c4a                run_plm
+ .text          0x00000c84      0x212 obj\Debug\mode_SCM\SCM.o
+                0x00000c84                SCM_Init
+                0x00000ca2                scm_change_current_mode
+                0x00000d3a                SCM_Set_Current_Mode
+                0x00000d7c                eat_time
+                0x00000dd0                SCM_Run_Current_Mode
+ .text          0x00000e96      0x25a obj\Debug\mode_SMM\SMM.o
+                0x00000e96                measure_light
+                0x00000ec4                measure_em
+                0x00000ef2                measure_RotationX
+                0x00000f20                measure_RotationY
+                0x00000f4e                measure_RotationZ
+                0x00000f7c                sendScienceMeasurements
+                0x000010ce                run_smm
+ .text          0x000010f0      0x148 obj\Debug\mode_TMM\TMM.o
+                0x000010f0                measure_strain
+                0x00001114                check_buffer
+                0x00001138                run_tmm
+                0x0000115e                getCommunicationStatus
+                0x0000118e                sendTetherExtensionSignal
+                0x000011fe                sendSignal
+ .text          0x00001238       0xc2 obj\Debug\Recovery_Modes\MFM.o
+                0x00001238                power_error
+                0x00001248                attitude_error
+                0x00001258                run_malfunction_mode
+ .text          0x000012fa       0x4a obj\Debug\Sensors\Em_Sensor.o
+                0x000012fa                getEmField
+ .text          0x00001344       0x4a obj\Debug\Sensors\Light_Sensor.o
+                0x00001344                Get_Ambient_Light
+ .text          0x0000138e       0x8c obj\Debug\Sensors\Rotation_Sensor.o
+                0x0000138e                getRotationX
+                0x000013ba                getRotationY
+                0x000013ea                getRotationZ
+ .text          0x0000141a       0x4a obj\Debug\Sensors\Tether_Communication_Sensor'.o
+                0x0000141a                getWireTension
+ .text          0x00001464        0xe obj\Debug\Sensors\Time_Watch.o
+                0x00001464                checkTime
+ .text          0x00001472      0x3a8 obj\Debug\systmr\systmr.o
+                0x00001472                systmr_Init
+                0x000014b0                systmr_Load
+                0x000014f8                systmr_Elapsed
+                0x000015bc                systmr_Latch
+                0x000015e4                systmr_IsElapsed
+                0x00001604                systmr_AdjustForward
+                0x00001642                systmr_AdjustBack
+                0x00001680                systmr_Delta
+                0x000016be                systmr_Time
+                0x000016f8                delay_ms
+                0x00001756                delay_sec
+                0x000017b8                delay_min
+ .text          0x0000181a      0x144 obj\Debug\timer0\timer0.o
+                0x0000181a                tmr0_Init
+                0x0000188a                tmr0_PwmBOff
+                0x000018b2                tmr0_PwmBOn
+                0x000018dc                tmr0_ChangeFrequency
+                0x00001900                tmr0_PwmB
+                0x0000192e                tmr0_PwmB_toggle
+ .text          0x0000195e      0x29a obj\Debug\timer1\timer1.o
+                0x0000195e                tmr1_Get2msTicks_u32
+                0x000019a0                tmr1_Get2msTicks_u16
+                0x000019d0                tmr1_Get2msTicks_u8
+                0x000019fa                tmr1_Get10msTicks_u16
+                0x00001a2a                tmr1_Init
+                0x00001b16                tmr1_PwmsOff
+                0x00001b36                tmr1_PwmsOn
+                0x00001b5a                tmr1_PwmA
+                0x00001baa                __vector_17
+ .text          0x00001bf8      0x28a obj\Debug\timer3\timer3.o
+                0x00001bf8                tmr3_Get2msTicks_u32
+                0x00001c3a                tmr3_Get2msTicks_u16
+                0x00001c6a                tmr3_Get2msTicks_u8
+                0x00001c94                tmr3_Get10msTicks_u16
+                0x00001cc4                tmr3_Init
+                0x00001d58                tmr3_PwmsOff
+                0x00001d78                tmr3_PwmsOn
+                0x00001d9c                tmr3_PwmA
+                0x00001dec                __vector_32
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00001e82                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc.mul
+                0x00001e82        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00001e82       0x28 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00001e82                _div
+                0x00001e82                __divmodhi4
+ .text.libgcc   0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00001eaa        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x00001eaa        0xc d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00001eaa                __tablejump2__
+ .text.libgcc.prologue
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00001eb6        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00001eb6       0x28 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00001eb6                __udivmodhi4
+ .text.libgcc   0x00001ede        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00001ede        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00001ede        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00001ede        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00001ede        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.avr-libc
+                0x00001ede       0xb8 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                0x00001f70                rand_r
+                0x00001f76                rand
+                0x00001f80                srand
+ .text.avr-libc
+                0x00001f96       0x2c d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00001f96                printf
+ .text.avr-libc
+                0x00001fc2       0x60 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                0x00001fc2                puts
+ .text.avr-libc
+                0x00002022      0x3a4 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00002022                vfprintf
+ .text.avr-libc
+                0x000023c6       0x16 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x000023c6                strnlen_P
+ .text.avr-libc
+                0x000023dc       0x16 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x000023dc                strnlen
+ .text.avr-libc
+                0x000023f2       0x70 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x000023f2                fputc
+ .text.avr-libc
+                0x00002462       0xbc d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00002462                __ultoa_invert
+ .text.libgcc.mul
+                0x0000251e        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000251e       0x2e d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x0000251e                __divmodsi4
+ .text.libgcc   0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000254c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x0000254c       0x10 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x0000254c                __negsi2
+ .text.libgcc   0x0000255c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000255c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000255c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000255c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000255c        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000255c       0x16 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x0000255c                __muluhisi3
+ .text.libgcc.div
+                0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00002572        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00002572       0x10 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                0x00002572                __mulshisi3
+                0x00002578                __mulohisi3
+ .text.libgcc.div
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00002582        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x00002582       0x38 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00002582                __prologue_saves__
+ .text.libgcc.builtins
+                0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x000025ba        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x000025ba       0x36 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x000025ba                __epilogue_restores__
+ .text.libgcc.builtins
+                0x000025f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x000025f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x000025f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x000025f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x000025f0       0x44 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x000025f0                __udivmodsi4
+ .text.libgcc   0x00002634        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00002634        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00002634        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00002634        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00002634        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00002634       0x1e d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00002634                __umulhisi3
+ .text.libgcc.div
+                0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x00002652                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002652        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00002652                _exit
+                0x00002652                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002652        0x4 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002656                _etext = .
+
+.data           0x00800100      0x3a4 load address 0x00002656
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .data          0x00800100        0x0 obj\Debug\fuse.o
+ .data          0x00800100        0x0 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .data          0x00800100        0x0 obj\Debug\io\io.o
+ .data          0x00800100        0x4 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .data          0x00800104        0x1 obj\Debug\Main\main.o
+ .data          0x00800105        0x0 obj\Debug\mode_LVSM\LVSM.o
+ .data          0x00800105        0x0 obj\Debug\mode_PLM\PLM.o
+ .data          0x00800105        0x4 obj\Debug\mode_SCM\SCM.o
+ .data          0x00800109        0x0 obj\Debug\mode_SMM\SMM.o
+ .data          0x00800109        0x0 obj\Debug\mode_TMM\TMM.o
+ .data          0x00800109        0x0 obj\Debug\Recovery_Modes\MFM.o
+ .data          0x00800109        0x0 obj\Debug\Sensors\Em_Sensor.o
+ .data          0x00800109        0x0 obj\Debug\Sensors\Light_Sensor.o
+ .data          0x00800109        0x0 obj\Debug\Sensors\Rotation_Sensor.o
+ .data          0x00800109        0x0 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .data          0x00800109        0x0 obj\Debug\Sensors\Time_Watch.o
+ .data          0x00800109        0x0 obj\Debug\systmr\systmr.o
+ .data          0x00800109        0x0 obj\Debug\timer0\timer0.o
+ .data          0x00800109        0x0 obj\Debug\timer1\timer1.o
+ .data          0x00800109        0x0 obj\Debug\timer3\timer3.o
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800109        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800109        0x4 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080010d        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ *(.data*)
+ *(.rodata)
+ .rodata        0x0080010d       0x3c obj\Debug\Health_Safety_Check\health_safety_check.o
+ .rodata        0x00800149       0x2f obj\Debug\mode_LVSM\LVSM.o
+ .rodata        0x00800178       0x8a obj\Debug\mode_PLM\PLM.o
+ .rodata        0x00800202       0x78 obj\Debug\mode_SCM\SCM.o
+ .rodata        0x0080027a      0x165 obj\Debug\mode_SMM\SMM.o
+ .rodata        0x008003df       0xc5 obj\Debug\mode_TMM\TMM.o
+                0x008003df                lengthToExtendTether
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008004a4                . = ALIGN (0x2)
+                0x008004a4                _edata = .
+                0x008004a4                PROVIDE (__data_end, .)
+
+.bss            0x008004a4       0x62
+                0x008004a4                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008004a4        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .bss           0x008004a4        0x0 obj\Debug\fuse.o
+ .bss           0x008004a4        0x2 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .bss           0x008004a6        0x0 obj\Debug\io\io.o
+ .bss           0x008004a6       0x34 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .bss           0x008004da        0x0 obj\Debug\Main\main.o
+ .bss           0x008004da        0x0 obj\Debug\mode_LVSM\LVSM.o
+ .bss           0x008004da        0x2 obj\Debug\mode_PLM\PLM.o
+ .bss           0x008004dc        0x2 obj\Debug\mode_SCM\SCM.o
+ .bss           0x008004de        0x0 obj\Debug\mode_SMM\SMM.o
+ .bss           0x008004de        0x0 obj\Debug\mode_TMM\TMM.o
+ .bss           0x008004de        0x0 obj\Debug\Recovery_Modes\MFM.o
+ .bss           0x008004de        0x0 obj\Debug\Sensors\Em_Sensor.o
+ .bss           0x008004de        0x0 obj\Debug\Sensors\Light_Sensor.o
+ .bss           0x008004de        0x0 obj\Debug\Sensors\Rotation_Sensor.o
+ .bss           0x008004de        0x0 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .bss           0x008004de        0x0 obj\Debug\Sensors\Time_Watch.o
+ .bss           0x008004de        0x0 obj\Debug\systmr\systmr.o
+ .bss           0x008004de        0x1 obj\Debug\timer0\timer0.o
+ .bss           0x008004df        0x8 obj\Debug\timer1\timer1.o
+                0x008004df                tmr1_ticks
+                0x008004e3                tmr1_fifth_ticks
+ .bss           0x008004e7        0x9 obj\Debug\timer3\timer3.o
+                0x008004e7                tmr3_ticks
+                0x008004eb                tmr3_fifth_ticks
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008004f0        0x0 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008004f0       0x10 obj\Debug\Main\main.o
+                0x008004f0                PGS
+                0x008004f8                TUS
+ COMMON         0x00800500        0x6 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x00800500                __iob
+                0x00800506                PROVIDE (__bss_end, .)
+                0x00002656                __data_load_start = LOADADDR (.data)
+                0x000029fa                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800506        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800506                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse           0x00820000        0x3
+ *(.fuse)
+ .fuse          0x00820000        0x3 obj\Debug\fuse.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 obj\Debug\fuse.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .comment       0x00000011       0x12 obj\Debug\io\io.o
+ .comment       0x00000011       0x12 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .comment       0x00000011       0x12 obj\Debug\Main\main.o
+ .comment       0x00000011       0x12 obj\Debug\mode_LVSM\LVSM.o
+ .comment       0x00000011       0x12 obj\Debug\mode_PLM\PLM.o
+ .comment       0x00000011       0x12 obj\Debug\mode_SCM\SCM.o
+ .comment       0x00000011       0x12 obj\Debug\mode_SMM\SMM.o
+ .comment       0x00000011       0x12 obj\Debug\mode_TMM\TMM.o
+ .comment       0x00000011       0x12 obj\Debug\Recovery_Modes\MFM.o
+ .comment       0x00000011       0x12 obj\Debug\Sensors\Em_Sensor.o
+ .comment       0x00000011       0x12 obj\Debug\Sensors\Light_Sensor.o
+ .comment       0x00000011       0x12 obj\Debug\Sensors\Rotation_Sensor.o
+ .comment       0x00000011       0x12 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .comment       0x00000011       0x12 obj\Debug\Sensors\Time_Watch.o
+ .comment       0x00000011       0x12 obj\Debug\systmr\systmr.o
+ .comment       0x00000011       0x12 obj\Debug\timer0\timer0.o
+ .comment       0x00000011       0x12 obj\Debug\timer1\timer1.o
+ .comment       0x00000011       0x12 obj\Debug\timer3\timer3.o
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x00000011       0x12 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x270
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 obj\Debug\fuse.o
+ .debug_aranges
+                0x00000018       0x20 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_aranges
+                0x00000038       0x18 obj\Debug\io\io.o
+ .debug_aranges
+                0x00000050       0x20 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_aranges
+                0x00000070       0x20 obj\Debug\Main\main.o
+ .debug_aranges
+                0x00000090       0x20 obj\Debug\mode_LVSM\LVSM.o
+ .debug_aranges
+                0x000000b0       0x20 obj\Debug\mode_PLM\PLM.o
+ .debug_aranges
+                0x000000d0       0x20 obj\Debug\mode_SCM\SCM.o
+ .debug_aranges
+                0x000000f0       0x20 obj\Debug\mode_SMM\SMM.o
+ .debug_aranges
+                0x00000110       0x20 obj\Debug\mode_TMM\TMM.o
+ .debug_aranges
+                0x00000130       0x20 obj\Debug\Recovery_Modes\MFM.o
+ .debug_aranges
+                0x00000150       0x20 obj\Debug\Sensors\Em_Sensor.o
+ .debug_aranges
+                0x00000170       0x20 obj\Debug\Sensors\Light_Sensor.o
+ .debug_aranges
+                0x00000190       0x20 obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_aranges
+                0x000001b0       0x20 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_aranges
+                0x000001d0       0x20 obj\Debug\Sensors\Time_Watch.o
+ .debug_aranges
+                0x000001f0       0x20 obj\Debug\systmr\systmr.o
+ .debug_aranges
+                0x00000210       0x20 obj\Debug\timer0\timer0.o
+ .debug_aranges
+                0x00000230       0x20 obj\Debug\timer1\timer1.o
+ .debug_aranges
+                0x00000250       0x20 obj\Debug\timer3\timer3.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x29ab
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x9f4 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .debug_info    0x000009f4       0xa6 obj\Debug\fuse.o
+ .debug_info    0x00000a9a      0x1da obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_info    0x00000c74       0x56 obj\Debug\io\io.o
+ .debug_info    0x00000cca      0x62f obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_info    0x000012f9      0x244 obj\Debug\Main\main.o
+ .debug_info    0x0000153d       0xdd obj\Debug\mode_LVSM\LVSM.o
+ .debug_info    0x0000161a      0x140 obj\Debug\mode_PLM\PLM.o
+ .debug_info    0x0000175a      0x27b obj\Debug\mode_SCM\SCM.o
+ .debug_info    0x000019d5      0x1ca obj\Debug\mode_SMM\SMM.o
+ .debug_info    0x00001b9f      0x178 obj\Debug\mode_TMM\TMM.o
+ .debug_info    0x00001d17       0xc1 obj\Debug\Recovery_Modes\MFM.o
+ .debug_info    0x00001dd8       0xa7 obj\Debug\Sensors\Em_Sensor.o
+ .debug_info    0x00001e7f       0x6f obj\Debug\Sensors\Light_Sensor.o
+ .debug_info    0x00001eee       0xef obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_info    0x00001fdd       0x6f obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_info    0x0000204c       0x7b obj\Debug\Sensors\Time_Watch.o
+ .debug_info    0x000020c7      0x3c7 obj\Debug\systmr\systmr.o
+ .debug_info    0x0000248e      0x14d obj\Debug\timer0\timer0.o
+ .debug_info    0x000025db      0x1e7 obj\Debug\timer1\timer1.o
+ .debug_info    0x000027c2      0x1e9 obj\Debug\timer3\timer3.o
+
+.debug_abbrev   0x00000000     0x170f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x96a d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .debug_abbrev  0x0000096a       0x6f obj\Debug\fuse.o
+ .debug_abbrev  0x000009d9       0xeb obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_abbrev  0x00000ac4       0x26 obj\Debug\io\io.o
+ .debug_abbrev  0x00000aea      0x249 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_abbrev  0x00000d33       0xc0 obj\Debug\Main\main.o
+ .debug_abbrev  0x00000df3       0x92 obj\Debug\mode_LVSM\LVSM.o
+ .debug_abbrev  0x00000e85       0x9b obj\Debug\mode_PLM\PLM.o
+ .debug_abbrev  0x00000f20      0x12c obj\Debug\mode_SCM\SCM.o
+ .debug_abbrev  0x0000104c       0x85 obj\Debug\mode_SMM\SMM.o
+ .debug_abbrev  0x000010d1       0xb7 obj\Debug\mode_TMM\TMM.o
+ .debug_abbrev  0x00001188       0x76 obj\Debug\Recovery_Modes\MFM.o
+ .debug_abbrev  0x000011fe       0x55 obj\Debug\Sensors\Em_Sensor.o
+ .debug_abbrev  0x00001253       0x55 obj\Debug\Sensors\Light_Sensor.o
+ .debug_abbrev  0x000012a8       0x6f obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_abbrev  0x00001317       0x55 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_abbrev  0x0000136c       0x42 obj\Debug\Sensors\Time_Watch.o
+ .debug_abbrev  0x000013ae      0x116 obj\Debug\systmr\systmr.o
+ .debug_abbrev  0x000014c4       0xa1 obj\Debug\timer0\timer0.o
+ .debug_abbrev  0x00001565       0xd5 obj\Debug\timer1\timer1.o
+ .debug_abbrev  0x0000163a       0xd5 obj\Debug\timer3\timer3.o
+
+.debug_line     0x00000000     0x1a52
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .debug_line    0x0000001a       0x57 obj\Debug\fuse.o
+ .debug_line    0x00000071      0x16e obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_line    0x000001df       0x1a obj\Debug\io\io.o
+ .debug_line    0x000001f9      0x5b5 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_line    0x000007ae      0x102 obj\Debug\Main\main.o
+ .debug_line    0x000008b0       0xdf obj\Debug\mode_LVSM\LVSM.o
+ .debug_line    0x0000098f      0x138 obj\Debug\mode_PLM\PLM.o
+ .debug_line    0x00000ac7      0x1db obj\Debug\mode_SCM\SCM.o
+ .debug_line    0x00000ca2      0x1aa obj\Debug\mode_SMM\SMM.o
+ .debug_line    0x00000e4c       0xf6 obj\Debug\mode_TMM\TMM.o
+ .debug_line    0x00000f42       0xf1 obj\Debug\Recovery_Modes\MFM.o
+ .debug_line    0x00001033       0x7b obj\Debug\Sensors\Em_Sensor.o
+ .debug_line    0x000010ae       0x7e obj\Debug\Sensors\Light_Sensor.o
+ .debug_line    0x0000112c       0xbd obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_line    0x000011e9       0x8e obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_line    0x00001277       0x46 obj\Debug\Sensors\Time_Watch.o
+ .debug_line    0x000012bd      0x216 obj\Debug\systmr\systmr.o
+ .debug_line    0x000014d3      0x171 obj\Debug\timer0\timer0.o
+ .debug_line    0x00001644      0x21f obj\Debug\timer1\timer1.o
+ .debug_line    0x00001863      0x1ef obj\Debug\timer3\timer3.o
+
+.debug_frame    0x00000000      0xf10
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf4 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_frame   0x000000f4      0x2f8 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_frame   0x000003ec       0x34 obj\Debug\Main\main.o
+ .debug_frame   0x00000420       0x94 obj\Debug\mode_LVSM\LVSM.o
+ .debug_frame   0x000004b4      0x114 obj\Debug\mode_PLM\PLM.o
+ .debug_frame   0x000005c8       0xb4 obj\Debug\mode_SCM\SCM.o
+ .debug_frame   0x0000067c       0xf4 obj\Debug\mode_SMM\SMM.o
+ .debug_frame   0x00000770       0xd4 obj\Debug\mode_TMM\TMM.o
+ .debug_frame   0x00000844       0x74 obj\Debug\Recovery_Modes\MFM.o
+ .debug_frame   0x000008b8       0x34 obj\Debug\Sensors\Em_Sensor.o
+ .debug_frame   0x000008ec       0x34 obj\Debug\Sensors\Light_Sensor.o
+ .debug_frame   0x00000920       0x74 obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_frame   0x00000994       0x34 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_frame   0x000009c8       0x34 obj\Debug\Sensors\Time_Watch.o
+ .debug_frame   0x000009fc      0x194 obj\Debug\systmr\systmr.o
+ .debug_frame   0x00000b90       0xd4 obj\Debug\timer0\timer0.o
+ .debug_frame   0x00000c64      0x15c obj\Debug\timer1\timer1.o
+ .debug_frame   0x00000dc0      0x150 obj\Debug\timer3\timer3.o
+
+.debug_str      0x00000000     0x122c
+ *(.debug_str)
+ .debug_str     0x00000000      0x371 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+ .debug_str     0x00000371       0x9f obj\Debug\fuse.o
+                                 0xd8 (size before relaxing)
+ .debug_str     0x00000410      0x14b obj\Debug\Health_Safety_Check\health_safety_check.o
+                                0x208 (size before relaxing)
+ .debug_str     0x0000055b        0x8 obj\Debug\io\io.o
+                                 0xbb (size before relaxing)
+ .debug_str     0x00000563      0x413 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                0x4f0 (size before relaxing)
+ .debug_str     0x00000976       0xd6 obj\Debug\Main\main.o
+                                0x1fe (size before relaxing)
+ .debug_str     0x00000a4c       0x35 obj\Debug\mode_LVSM\LVSM.o
+                                 0xf2 (size before relaxing)
+ .debug_str     0x00000a81       0xaa obj\Debug\mode_PLM\PLM.o
+                                0x16a (size before relaxing)
+ .debug_str     0x00000b2b       0xc1 obj\Debug\mode_SCM\SCM.o
+                                0x234 (size before relaxing)
+ .debug_str     0x00000bec       0xd6 obj\Debug\mode_SMM\SMM.o
+                                0x194 (size before relaxing)
+ .debug_str     0x00000cc2       0xad obj\Debug\mode_TMM\TMM.o
+                                0x173 (size before relaxing)
+ .debug_str     0x00000d6f       0x45 obj\Debug\Recovery_Modes\MFM.o
+                                0x10f (size before relaxing)
+ .debug_str     0x00000db4       0x31 obj\Debug\Sensors\Em_Sensor.o
+                                 0xfc (size before relaxing)
+ .debug_str     0x00000de5       0x36 obj\Debug\Sensors\Light_Sensor.o
+                                 0xa0 (size before relaxing)
+ .debug_str     0x00000e1b       0x41 obj\Debug\Sensors\Rotation_Sensor.o
+                                0x121 (size before relaxing)
+ .debug_str     0x00000e5c       0x53 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+                                 0xb2 (size before relaxing)
+ .debug_str     0x00000eaf       0x1f obj\Debug\Sensors\Time_Watch.o
+                                 0xd7 (size before relaxing)
+ .debug_str     0x00000ece      0x162 obj\Debug\systmr\systmr.o
+                                0x290 (size before relaxing)
+ .debug_str     0x00001030       0x81 obj\Debug\timer0\timer0.o
+                                0x141 (size before relaxing)
+ .debug_str     0x000010b1       0xc2 obj\Debug\timer1\timer1.o
+                                0x187 (size before relaxing)
+ .debug_str     0x00001173       0xb9 obj\Debug\timer3\timer3.o
+                                0x187 (size before relaxing)
+
+.debug_loc      0x00000000     0x1cbc
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x1c3 obj\Debug\Health_Safety_Check\health_safety_check.o
+ .debug_loc     0x000001c3      0x61b obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+ .debug_loc     0x000007de       0x47 obj\Debug\Main\main.o
+ .debug_loc     0x00000825       0xf9 obj\Debug\mode_LVSM\LVSM.o
+ .debug_loc     0x0000091e      0x1e5 obj\Debug\mode_PLM\PLM.o
+ .debug_loc     0x00000b03      0x14d obj\Debug\mode_SCM\SCM.o
+ .debug_loc     0x00000c50      0x1ea obj\Debug\mode_SMM\SMM.o
+ .debug_loc     0x00000e3a      0x189 obj\Debug\mode_TMM\TMM.o
+ .debug_loc     0x00000fc3       0xbe obj\Debug\Recovery_Modes\MFM.o
+ .debug_loc     0x00001081       0x48 obj\Debug\Sensors\Em_Sensor.o
+ .debug_loc     0x000010c9       0x48 obj\Debug\Sensors\Light_Sensor.o
+ .debug_loc     0x00001111       0xd8 obj\Debug\Sensors\Rotation_Sensor.o
+ .debug_loc     0x000011e9       0x48 obj\Debug\Sensors\Tether_Communication_Sensor'.o
+ .debug_loc     0x00001231       0x3b obj\Debug\Sensors\Time_Watch.o
+ .debug_loc     0x0000126c      0x35c obj\Debug\systmr\systmr.o
+ .debug_loc     0x000015c8      0x189 obj\Debug\timer0\timer0.o
+ .debug_loc     0x00001751      0x2c9 obj\Debug\timer1\timer1.o
+ .debug_loc     0x00001a1a      0x2a2 obj\Debug\timer3\timer3.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(bin\Debug\ET-Sat-TEST2.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Get_Ambient_Light                                 obj\Debug\Sensors\Light_Sensor.o
+                                                  obj\Debug\mode_SMM\SMM.o
+IR_Communication_System_Init                      obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                                  obj\Debug\Main\main.o
+IR_checkForNewMessage                             obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+PGS                                               obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\Main\main.o
+SCM_Init                                          obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\Main\main.o
+SCM_Run_Current_Mode                              obj\Debug\mode_SCM\SCM.o
+SCM_Set_Current_Mode                              obj\Debug\mode_SCM\SCM.o
+TUS                                               obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\Main\main.o
+__FUSE_REGION_LENGTH__                            d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__bad_interrupt                                   d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__bss_end                                         d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                                                  obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+__divmodsi4                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+__do_clear_bss                                    d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                                                  obj\Debug\timer3\timer3.o
+                                                  obj\Debug\timer1\timer1.o
+                                                  obj\Debug\timer0\timer0.o
+                                                  obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+                                                  obj\Debug\Main\main.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                                  obj\Debug\Health_Safety_Check\health_safety_check.o
+__do_copy_data                                    d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_SMM\SMM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+                                                  obj\Debug\mode_LVSM\LVSM.o
+                                                  obj\Debug\Main\main.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                                  obj\Debug\Health_Safety_Check\health_safety_check.o
+__epilogue_restores__                             d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+__fuse                                            obj\Debug\fuse.o
+__heap_end                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__init                                            d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__iob                                             d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+__mulohisi3                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+__mulshisi3                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+__muluhisi3                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+__negsi2                                          d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+__prologue_saves__                                d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+__stack                                           d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__tablejump2__                                    d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                                                  obj\Debug\Recovery_Modes\MFM.o
+__udivmodhi4                                      d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+__ultoa_invert                                    d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+__umulhisi3                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+__vector_1                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_10                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_11                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_12                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_13                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_14                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_15                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_16                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_17                                       obj\Debug\timer1\timer1.o
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_18                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_19                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_2                                        obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_20                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_21                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_22                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_23                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_24                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_25                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_26                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_27                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_28                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_29                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_3                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_30                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_31                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_32                                       obj\Debug\timer3\timer3.o
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_33                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_34                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_35                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_36                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_37                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_38                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_39                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_4                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_40                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_41                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_42                                       d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_5                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_6                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_7                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_8                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_9                                        d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_default                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+__vectors                                         d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+_div                                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+assembleMessage                                   obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+attitude_error                                    obj\Debug\Recovery_Modes\MFM.o
+attitude_status_ok                                obj\Debug\Health_Safety_Check\health_safety_check.o
+checkTime                                         obj\Debug\Sensors\Time_Watch.o
+check_buffer                                      obj\Debug\mode_TMM\TMM.o
+delay_min                                         obj\Debug\systmr\systmr.o
+delay_ms                                          obj\Debug\systmr\systmr.o
+                                                  obj\Debug\Recovery_Modes\MFM.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+delay_sec                                         obj\Debug\systmr\systmr.o
+disable_IR_Interrupt                              obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+eat_time                                          obj\Debug\mode_SCM\SCM.o
+enable_IR_Interrupt                               obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+exit                                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+flag_status                                       obj\Debug\Health_Safety_Check\health_safety_check.o
+fputc                                             d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+getAckWaitTime                                    obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+getCommunicationStatus                            obj\Debug\mode_TMM\TMM.o
+getEmField                                        obj\Debug\Sensors\Em_Sensor.o
+                                                  obj\Debug\mode_SMM\SMM.o
+getRotationX                                      obj\Debug\Sensors\Rotation_Sensor.o
+                                                  obj\Debug\mode_SMM\SMM.o
+getRotationY                                      obj\Debug\Sensors\Rotation_Sensor.o
+                                                  obj\Debug\mode_SMM\SMM.o
+getRotationZ                                      obj\Debug\Sensors\Rotation_Sensor.o
+                                                  obj\Debug\mode_SMM\SMM.o
+getTotalNumOfBitsReceived                         obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+getWireTension                                    obj\Debug\Sensors\Tether_Communication_Sensor'.o
+get_Bit_Value_From_Length                         obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+get_bit_value_length                              obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+get_phantom_loop_current                          obj\Debug\mode_PLM\PLM.o
+handle_phantom_loop_error                         obj\Debug\mode_PLM\PLM.o
+imu_post                                          obj\Debug\mode_LVSM\LVSM.o
+initialize_phantom_loop_current                   obj\Debug\mode_PLM\PLM.o
+isMessageExecuted                                 obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+isWithinErrorMargin                               obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+is_ISR_timed_out                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+kill_current                                      obj\Debug\mode_PLM\PLM.o
+last_received_message                             obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+led_clear                                         obj\Debug\Health_Safety_Check\health_safety_check.o
+                                                  obj\Debug\Recovery_Modes\MFM.o
+lengthToExtendTether                              obj\Debug\mode_TMM\TMM.o
+main                                              obj\Debug\Main\main.o
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega32u4.o
+measure_RotationX                                 obj\Debug\mode_SMM\SMM.o
+measure_RotationY                                 obj\Debug\mode_SMM\SMM.o
+measure_RotationZ                                 obj\Debug\mode_SMM\SMM.o
+measure_current                                   obj\Debug\mode_PLM\PLM.o
+measure_em                                        obj\Debug\mode_SMM\SMM.o
+measure_light                                     obj\Debug\mode_SMM\SMM.o
+measure_strain                                    obj\Debug\mode_TMM\TMM.o
+mode_test_init                                    obj\Debug\Health_Safety_Check\health_safety_check.o
+obc_post                                          obj\Debug\mode_LVSM\LVSM.o
+power_error                                       obj\Debug\Recovery_Modes\MFM.o
+power_loop_off                                    obj\Debug\mode_PLM\PLM.o
+power_loop_on                                     obj\Debug\mode_PLM\PLM.o
+power_on                                          obj\Debug\mode_LVSM\LVSM.o
+printf                                            d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                                                  obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_SMM\SMM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+                                                  obj\Debug\mode_LVSM\LVSM.o
+                                                  obj\Debug\Health_Safety_Check\health_safety_check.o
+puts                                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                                                  obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_SMM\SMM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+                                                  obj\Debug\mode_LVSM\LVSM.o
+                                                  obj\Debug\Health_Safety_Check\health_safety_check.o
+rand                                              d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                                                  obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_PLM\PLM.o
+rand_r                                            d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+reset_IR_Interrupt                                obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+run_health_safety_check                           obj\Debug\Health_Safety_Check\health_safety_check.o
+run_lvsm                                          obj\Debug\mode_LVSM\LVSM.o
+run_malfunction_mode                              obj\Debug\Recovery_Modes\MFM.o
+run_plm                                           obj\Debug\mode_PLM\PLM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+run_smm                                           obj\Debug\mode_SMM\SMM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+run_tmm                                           obj\Debug\mode_TMM\TMM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+scm_change_current_mode                           obj\Debug\mode_SCM\SCM.o
+sendScienceMeasurements                           obj\Debug\mode_SMM\SMM.o
+sendSignal                                        obj\Debug\mode_TMM\TMM.o
+sendTetherExtensionSignal                         obj\Debug\mode_TMM\TMM.o
+send_Acknowledgement                              obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+send_Message                                      obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+                                                  obj\Debug\mode_SMM\SMM.o
+                                                  obj\Debug\mode_SCM\SCM.o
+send_Message_wait_for_ack                         obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+setData                                           obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+setMessageAsExecuted                              obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+setTotalBitsReceived                              obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+srand                                             d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+strnlen                                           d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+strnlen_P                                         d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+systmr_AdjustBack                                 obj\Debug\systmr\systmr.o
+systmr_AdjustForward                              obj\Debug\systmr\systmr.o
+systmr_Delta                                      obj\Debug\systmr\systmr.o
+systmr_Elapsed                                    obj\Debug\systmr\systmr.o
+                                                  obj\Debug\Main\main.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+systmr_Init                                       obj\Debug\systmr\systmr.o
+                                                  obj\Debug\Main\main.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+systmr_IsElapsed                                  obj\Debug\systmr\systmr.o
+systmr_Latch                                      obj\Debug\systmr\systmr.o
+systmr_Load                                       obj\Debug\systmr\systmr.o
+                                                  obj\Debug\Main\main.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+systmr_Time                                       obj\Debug\systmr\systmr.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+tether_status_ok                                  obj\Debug\Health_Safety_Check\health_safety_check.o
+tmr0_ChangeFrequency                              obj\Debug\timer0\timer0.o
+tmr0_Init                                         obj\Debug\timer0\timer0.o
+                                                  obj\Debug\Main\main.o
+tmr0_PwmB                                         obj\Debug\timer0\timer0.o
+                                                  obj\Debug\IR_Protocol\IR_Protocol_sendBits.o
+tmr0_PwmBOff                                      obj\Debug\timer0\timer0.o
+tmr0_PwmBOn                                       obj\Debug\timer0\timer0.o
+tmr0_PwmB_toggle                                  obj\Debug\timer0\timer0.o
+tmr1_Get10msTicks_u16                             obj\Debug\timer1\timer1.o
+tmr1_Get2msTicks_u16                              obj\Debug\timer1\timer1.o
+tmr1_Get2msTicks_u32                              obj\Debug\timer1\timer1.o
+tmr1_Get2msTicks_u8                               obj\Debug\timer1\timer1.o
+tmr1_Init                                         obj\Debug\timer1\timer1.o
+tmr1_PwmA                                         obj\Debug\timer1\timer1.o
+tmr1_PwmsOff                                      obj\Debug\timer1\timer1.o
+tmr1_PwmsOn                                       obj\Debug\timer1\timer1.o
+tmr1_fifth_ticks                                  obj\Debug\timer1\timer1.o
+tmr1_ticks                                        obj\Debug\timer1\timer1.o
+tmr3_Get10msTicks_u16                             obj\Debug\timer3\timer3.o
+tmr3_Get2msTicks_u16                              obj\Debug\timer3\timer3.o
+                                                  obj\Debug\systmr\systmr.o
+                                                  obj\Debug\Main\main.o
+tmr3_Get2msTicks_u32                              obj\Debug\timer3\timer3.o
+tmr3_Get2msTicks_u8                               obj\Debug\timer3\timer3.o
+tmr3_Init                                         obj\Debug\timer3\timer3.o
+                                                  obj\Debug\Main\main.o
+tmr3_PwmA                                         obj\Debug\timer3\timer3.o
+tmr3_PwmsOff                                      obj\Debug\timer3\timer3.o
+tmr3_PwmsOn                                       obj\Debug\timer3\timer3.o
+tmr3_fifth_ticks                                  obj\Debug\timer3\timer3.o
+tmr3_ticks                                        obj\Debug\timer3\timer3.o
+tus_power_status_ok                               obj\Debug\Health_Safety_Check\health_safety_check.o
+vfprintf                                          d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  d:/my_code/libraries/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
