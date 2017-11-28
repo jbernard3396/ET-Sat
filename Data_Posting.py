@@ -7,7 +7,7 @@ host          = "mqtt.xinabox.cc"
 client_id     = "dataPosting"
 username      = "nsl"
 # Please keep password private!
-password      = <InsertPasswordHere>
+password      = "PasswordGoesHere"
 port          = 1883
 clean_session = True
 
