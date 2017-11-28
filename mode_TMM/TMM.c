@@ -24,11 +24,13 @@ void check_buffer() {
 	printf("init check_buffer() ");
 }
 
-void run_tmm() {
+char * run_tmm(char * returnString){
 	measure_strain();
 	check_buffer();
 	printf("TMM is running\n\n");
-	sendTetherExtensionSignal(lengthToExtendTether);
+	int result = sendTetherExtensionSignal(lengthToExtendTether);
+	snprintf(returnString, STRINGLENGTHTMM, "6:%2d", result);
+	return returnString;
 }
 
 int getCommunicationStatus() {

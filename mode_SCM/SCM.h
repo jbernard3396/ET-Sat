@@ -8,7 +8,9 @@
 #include "../mode_SMM/SMM.h"
 #include "../mode_TMM/TMM.h"
 #include "../mode_PLM/PLM.h"
+#include "data_string.h"
 #include <stdio.h>
+#include <string.h>
 
 /*typedef PWR_STATE (*GET_PWR_STATE_CALLBACK)(void);*/
 
