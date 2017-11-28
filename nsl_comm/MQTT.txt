@@ -1,0 +1,22 @@
+
+{
+  "GS": {
+    "CW01": {
+      "RSSI": 55,
+      "Chip ID": 19938676,
+      "MAC": "11:22:33:77:88:99"
+    },
+  "Input": {
+      "Unit Name": "Jacobs Test Unit",
+      "Organization": "Satelite Software Team",
+      "Location_lat_lon": [
+        -70.6264,
+        80
+      ],
+      "Altitude": 2065000
+    },
+    "Timestamp": {
+      "Created": "2017-10-26T20:19:24"
+    }
+  }
+}
