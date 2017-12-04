@@ -16,11 +16,15 @@
 #include "SCM.h"
 
 //Variables
+const char otherData[] = "\"CW01\": { \"RSSI\": 55, \"Chip ID\": 19938676, \"MAC\": \"11:22:33:77:88:99\" }, \"Input\": { \"Unit Name\": \"Jacobs Test Unit\", \"Organization\": \"Satelite Software Team\", \"Location_lat_lon\": [ -70.6264, 80 ], \"Altitude\": 2065000 }, \"Timestamp\": { \"Created\": \"2017-10-26T20:19:24\" }";
 static MODE last_recorded_mode = SEND_TO_SIMPLEX; //I only chose this mode because we will never start in this mode, and therefore it will not conflict when the satellite is first turned on.
+const char headString[STRINGLENGTHHEADSTRING] = "{\"GS\":{";
+const char endString[STRINGLENGTHENDSTRING] = "}}";
 static Bool enterHealthSafetyCheck = TRUE;
 static Bool runRoutineOp = TRUE;
 static MODE previousNonRoutineOpMode = LVSM;
-char dataString[STRINGLENGTHTOTAL];
+char dataString[STRINGLENGTHDATASTRING];
+char stringToSend[STRINGLENGTHSTRINGTOSEND];
 
 void SCM_Init(void) {
     //LVSM will be the first mode that each satellite enters, and therefore they should beinitialized this way.
@@ -125,6 +129,15 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
 			strcat(dataString, ",");
 			strcat(dataString, run_plm(stringPLM));
 			printf("dataString=>%s\n", dataString);
+			printf("otherData=>%s\n", otherData);
+			// Concatinate with otherData
+			strcpy(stringToSend, headString);
+			strcat(stringToSend, dataString);
+			strcat(stringToSend, ",");
+			strcat(stringToSend, otherData);
+			strcat(stringToSend, endString);
+			printf("stringToSend=>%s\n", stringToSend);
+			
             break;
 
         case HEALTH_SAFETY_CHECK : // Health and safety #4

@@ -80,7 +80,7 @@ char * sendScienceMeasurements(char * returnString){
     }
 
 	// Copy values obtained into the return string
-	snprintf(returnString, STRINGLENGTHSMM, "1:%5hu,2:%5hu,3:%5hd,4:%5hd,5:%5hd",
+	snprintf(returnString, STRINGLENGTHSMM, "\"light\":%5hu,\"emField\":%5hu,\"rotationX\":%5hd,\"rotationY\":%5hd,\"rotationZ\":%5hd",
 			light, emField, rotationX, rotationY, rotationZ);
 	return returnString;
 
