@@ -44,8 +44,8 @@ int sendData(char* PAYLOAD)
     MQTTClient_destroy(&client);
     return rc;
 }
-
+/*
 int main() {
     sendData(PAYLOAD1);
     return 0;
-}
+}*/

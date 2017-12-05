@@ -15,6 +15,9 @@ CMakeFiles/ET-Sat.dir/Main/main.c.o: ../mode_PLM/PLM.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../mode_SCM/SCM.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../mode_SMM/SMM.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../mode_TMM/TMM.h
+CMakeFiles/ET-Sat.dir/Main/main.c.o: ../nsl_comm/MQTTClient.h
+CMakeFiles/ET-Sat.dir/Main/main.c.o: ../nsl_comm/MQTTClientPersistence.h
+CMakeFiles/ET-Sat.dir/Main/main.c.o: ../nsl_comm/nslComm.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../systmr/systmr.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../timer0/timer0.h
 CMakeFiles/ET-Sat.dir/Main/main.c.o: ../timer3/timer3.h
@@ -54,6 +57,9 @@ CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../mode_SCM/SCM.c
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../mode_SCM/SCM.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../mode_SMM/SMM.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../mode_TMM/TMM.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../nsl_comm/MQTTClient.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../nsl_comm/MQTTClientPersistence.h
+CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../nsl_comm/nslComm.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../systmr/systmr.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../timer0/timer0.h
 CMakeFiles/ET-Sat.dir/mode_SCM/SCM.c.o: ../timer3/timer3.h
@@ -79,4 +85,9 @@ CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: ../systmr/systmr.h
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: ../timer0/timer0.h
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: ../timer3/timer3.h
 CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.o: ../typedef/typedef.h
+
+CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o: ../nsl_comm/MQTTClient.h
+CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o: ../nsl_comm/MQTTClientPersistence.h
+CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o: ../nsl_comm/nslComm.c
+CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o: ../nsl_comm/nslComm.h
 

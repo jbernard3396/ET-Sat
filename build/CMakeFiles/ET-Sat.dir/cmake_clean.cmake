@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ET-Sat.dir/Sensors/Rotation_Sensor.c.o"
   "CMakeFiles/ET-Sat.dir/Sensors/Em_Sensor.c.o"
   "CMakeFiles/ET-Sat.dir/Sensors/Tether_Communication_Sensor'.c.o"
+  "CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o"
   "ET-Sat.pdb"
   "ET-Sat"
 )

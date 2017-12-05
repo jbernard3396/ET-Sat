@@ -12,6 +12,9 @@ project(ET-Sat)
 
 set(CMAKE_C_STANDARD 99)
 
+SET(GCC_COVERAGE_COMPILE_FLAGS "-L /home/ryan/Documents/test/paho.mqtt.c/build/output ../nsl_comm/nslComm.c -lpaho-mqtt3c && LD_LIBRARY_PATH=/home/ryan/Documents/test/paho.mqtt.c/build/output/ ./a.out")
+SET( CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${GCC_COVERAGE_COMPILE_FLAGS}")
+
 set(SOURCE_FILES Main/main.c Main/main.h mode_SCM/SCM.c mode_SCM/SCM.h mode_PLM/PLM.c mode_PLM/PLM.h mode_SMM/SMM.c mode_SMM/SMM.h mode_TMM/TMM.c mode_TMM/TMM.h Sensors/Light_Sensor.c Sensors/Light_Sensor.h Sensors/Rotation_Sensor.c Sensors/Rotation_Sensor.h
-       Sensors/Em_Sensor.c Sensors/Em_Sensor.h Sensors/Tether_Communication_Sensor'.c Sensors/Tether_Communication_Sensor'.h)
+       Sensors/Em_Sensor.c Sensors/Em_Sensor.h Sensors/Tether_Communication_Sensor'.c Sensors/Tether_Communication_Sensor'.h nsl_comm/nslComm.c nsl_comm/nslComm.h nsl_comm/MQTTClient.h nsl_comm/MQTTClientPersistence.h)
 add_executable(ET-Sat ${SOURCE_FILES})

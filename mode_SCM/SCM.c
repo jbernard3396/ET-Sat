@@ -72,6 +72,7 @@ void scm_change_current_mode(void) {
             break;
         case SEND_TO_SIMPLEX:
             TUS.currentMode = LVSM;
+	    break;
     }
 }
 
@@ -116,6 +117,7 @@ void SCM_Run_Current_Mode(SATELLITE thisSatellite) {
         case PLM : // #3
             printf("RUN PLM\n\n");
             run_plm();
+	    sendData("{\"GS\": {\"SW01\": {\"Ryan\": 5, \"Temperature(C)\": 75, \"Humidity(%)\": 27, \"Pressure(Pa)\": 99000}, \"SL01\": {\"Lux\": 6, \"UVA(mW/m^2)\": 0, \"UVB(mW/m^2\": 0, \"UVI\": 0}, \"CW01\": {\"RSSI\": 66, \"Chip ID\": 19938676, \"MAC\": \"11:22:33:77:88:99\"}, \"Input\": {\"Unit Name\": \"Jacobs Test Unit\", \"Organization\": \"Satelite Software Team\", \"Location_lat_lon\": [-70, 80], \"Altitude\": 2002000}, \"Timestamp\": {\"Created\": \"2017-11-16T21:11:38\"}}}");
             break;
 
         case HEALTH_SAFETY_CHECK : // Health and safety #4

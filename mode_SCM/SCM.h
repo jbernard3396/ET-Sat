@@ -8,6 +8,7 @@
 #include "../mode_SMM/SMM.h"
 #include "../mode_TMM/TMM.h"
 #include "../mode_PLM/PLM.h"
+#include "../nsl_comm/nslComm.h"
 #include <stdio.h>
 
 /*typedef PWR_STATE (*GET_PWR_STATE_CALLBACK)(void);*/
@@ -19,7 +20,7 @@ typedef enum {
     TMM = 2, // Tether Measurement Mode
     PLM = 3, // Phantom Loop Mode
 
-    //THe following are Routine Operations that will occur more often than the other modes
+    //The following are Routine Operations that will occur more often than the other modes
     HEALTH_SAFETY_CHECK = 4,
     SEND_TO_SIMPLEX = 5
     //MFM = 7  // Malfunction Mode

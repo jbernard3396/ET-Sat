@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT
+CMAKE_SOURCE_DIR = /home/ryan/Documents/ET-Sat
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/CS/users/hdeng/.linux/Documents/ThinSAT/build
+CMAKE_BINARY_DIR = /home/ryan/Documents/ET-Sat/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ryan/Documents/ET-Sat/build/CMakeFiles /home/ryan/Documents/ET-Sat/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/CS/users/hdeng/.linux/Documents/ThinSAT/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ryan/Documents/ET-Sat/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -366,6 +366,33 @@ mode_TMM/TMM.c.s:
 	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/mode_TMM/TMM.c.s
 .PHONY : mode_TMM/TMM.c.s
 
+nsl_comm/nslComm.o: nsl_comm/nslComm.c.o
+
+.PHONY : nsl_comm/nslComm.o
+
+# target to build an object file
+nsl_comm/nslComm.c.o:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.o
+.PHONY : nsl_comm/nslComm.c.o
+
+nsl_comm/nslComm.i: nsl_comm/nslComm.c.i
+
+.PHONY : nsl_comm/nslComm.i
+
+# target to preprocess a source file
+nsl_comm/nslComm.c.i:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.i
+.PHONY : nsl_comm/nslComm.c.i
+
+nsl_comm/nslComm.s: nsl_comm/nslComm.c.s
+
+.PHONY : nsl_comm/nslComm.s
+
+# target to generate assembly for a file
+nsl_comm/nslComm.c.s:
+	$(MAKE) -f CMakeFiles/ET-Sat.dir/build.make CMakeFiles/ET-Sat.dir/nsl_comm/nslComm.c.s
+.PHONY : nsl_comm/nslComm.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -402,6 +429,9 @@ help:
 	@echo "... mode_TMM/TMM.o"
 	@echo "... mode_TMM/TMM.i"
 	@echo "... mode_TMM/TMM.s"
+	@echo "... nsl_comm/nslComm.o"
+	@echo "... nsl_comm/nslComm.i"
+	@echo "... nsl_comm/nslComm.s"
 .PHONY : help
 
 
