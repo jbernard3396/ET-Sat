@@ -57,7 +57,7 @@ void measure_current(void) {
 
 char * run_plm(char * returnString){
     printf("Initalizing Phantom Loop Management\n");
-	snprintf(returnString, STRINGLENGTHPLM, "7:%2d", current);
+	snprintf(returnString, STRINGLENGTHPLM, "\"current\":%2d", current);
     if (power_loop_on()) printf("Phantom Loop started successfully\n");
     if (power_loop_off()) printf("Phantom Loop ended successfully\n");
 	return returnString;

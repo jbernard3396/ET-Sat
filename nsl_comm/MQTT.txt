@@ -1,0 +1,52 @@
+
+{
+	"GS": 
+	{
+		""
+
+		"CW01": {
+			"RSSI": 55,
+				"Chip ID": 19938676,
+				"MAC": "11:22:33:77:88:99"
+		},
+			"Input": {
+				"Unit Name": "Jacobs Test Unit",
+				"Organization": "Satelite Software Team",
+				"Location_lat_lon": [ -70.6264, 80 ], 
+				"Altitude": 2065000
+			},
+			"Timestamp": {
+				"Created": "2017-10-26T20:19:24"
+			}
+
+	}
+}
+
+dataString:
+
+"light":    8,"emField":   56,"rotationX":    1,"rotationY":-9999,"rotationZ":32767,"tetherSignal": 1,"current": 0
+
+otherData:
+
+		"CW01": {
+			"RSSI": 55,
+			"Chip ID": 19938676,
+			"MAC": "11:22:33:77:88:99"
+		},
+		"Input": {
+			"Unit Name": "Jacobs Test Unit",
+			"Organization": "Satelite Software Team",
+			"Location_lat_lon": [ -70.6264, 80 ], 
+			"Altitude": 2065000
+		},
+		"Timestamp": {
+			"Created": "2017-10-26T20:19:24"
+		}
+	
+unstructured otherData:
+
+\"CW01\": { \"RSSI\": 55, \"Chip ID\": 19938676, \"MAC\": \"11:22:33:77:88:99\" }, \"Input\": { \"Unit Name\": \"Jacobs Test Unit\", \"Organization\": \"Satelite Software Team\", \"Location_lat_lon\": [ -70.6264, 80 ], \"Altitude\": 2065000 }, \"Timestamp\": { \"Created\": \"2017-10-26T20:19:24\" }
+
+stringToSend:
+
+{"GS":{"light":    8,"emField":   56,"rotationX":    1,"rotationY":-9999,"rotationZ":32767,"tetherSignal": 1,"current": 0,"CW01": { "RSSI": 55, "Chip ID": 19938676, "MAC": "11:22:33:77:88:99" }, "Input": { "Unit Name": "Jacobs Test Unit", "Organization": "Satelite Software Team", "Location_lat_lon": [ -70.6264, 80 ], "Altitude": 2065000 }, "Timestamp": { "Created": "2017-10-26T20:19:24" }}}

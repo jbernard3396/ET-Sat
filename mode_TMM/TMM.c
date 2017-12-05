@@ -29,7 +29,7 @@ char * run_tmm(char * returnString){
 	check_buffer();
 	printf("TMM is running\n\n");
 	int result = sendTetherExtensionSignal(lengthToExtendTether);
-	snprintf(returnString, STRINGLENGTHTMM, "6:%2d", result);
+	snprintf(returnString, STRINGLENGTHTMM, "\"tetherSignal\":%2d", result);
 	return returnString;
 }
 
