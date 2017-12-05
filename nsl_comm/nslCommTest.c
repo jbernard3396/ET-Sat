@@ -1,14 +1,17 @@
-
+#include "stdio.h"
+#include "stdlib.h"
+#include "string.h"
+#include "MQTTClient.h"
+#include <unistd.h>
 
 #define ADDRESS     "mqtt.xinabox.cc:1883"
 #define CLIENTID    "dataPosting"
 #define TOPIC       "nsl/data/smallsat"
-#define PAYLOAD1     "{\"GS\": {\"SW01\": {\"Ryan\": 1, \"Temperature(C)\": 75, \"Humidity(%)\": 27, \"Pressure(Pa)\": 99000}, \"SL01\": {\"Lux\": 6, \"UVA(mW/m^2)\": 0, \"UVB(mW/m^2\": 0, \"UVI\": 0}, \"CW01\": {\"RSSI\": 66, \"Chip ID\": 19938676, \"MAC\": \"11:22:33:77:88:99\"}, \"Input\": {\"Unit Name\": \"Jacobs Test Unit\", \"Organization\": \"Satelite Software Team\", \"Location_lat_lon\": [-70, 80], \"Altitude\": 2002000}, \"Timestamp\": {\"Created\": \"2017-11-16T21:11:38\"}}}"
+#define PAYLOAD     "{\"GS\": {\"SW01\": {\"Temperature(C)\": 75, \"Humidity(%)\": 27, \"Pressure(Pa)\": 99000}, \"SL01\": {\"Lux\": 6, \"UVA(mW/m^2)\": 0, \"UVB(mW/m^2\": 0, \"UVI\": 0}, \"CW01\": {\"RSSI\": 66, \"Chip ID\": 19938676, \"MAC\": \"11:22:33:77:88:99\"}, \"Input\": {\"Unit Name\": \"Jacobs Test Unit\", \"Organization\": \"Satelite Software Team\", \"Location_lat_lon\": [-70, 80], \"Altitude\": 2002000}, \"Timestamp\": {\"Created\": \"2017-12-11T21:30:00\"}}}"
 #define QOS         1
 #define TIMEOUT     10000L
-#include "nslComm.h"
 
-int sendData(char* PAYLOAD)
+int main(int arcg, char* argv[])
 {
     MQTTClient client;
     MQTTClient_connectOptions conn_opts = MQTTClient_connectOptions_initializer;
@@ -43,9 +46,4 @@ int sendData(char* PAYLOAD)
     MQTTClient_disconnect(client, 10000);
     MQTTClient_destroy(&client);
     return rc;
-}
-
-int main() {
-    sendData(PAYLOAD1);
-    return 0;
 }
