@@ -5,4 +5,5 @@ Authors:
 Caleb Anthony,
 Jacob Bernard, 
 Ryan Jones,
-Justin Theien
+Justin Theien,
+David Deng
